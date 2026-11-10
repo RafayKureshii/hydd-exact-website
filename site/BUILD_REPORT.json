@@ -1,0 +1,41 @@
+{
+  "source": "https://www.hydd.fr",
+  "generated_utc": "2026-11-10T19:06:39.281028+00:00",
+  "page_count_original": 15,
+  "languages_built": [
+    "fr",
+    "en",
+    "ar"
+  ],
+  "total_generated_pages": 45,
+  "assets_captured": 751,
+  "asset_bytes": 64452559,
+  "original_paths": [
+    "/",
+    "/about",
+    "/app",
+    "/cgv",
+    "/coner",
+    "/contact",
+    "/digital-products-1-1",
+    "/evnements",
+    "/excursions",
+    "/guard",
+    "/mise-disposition",
+    "/notre-fl",
+    "/services",
+    "/team",
+    "/vip"
+  ],
+  "warnings": [],
+  "production_approved": false,
+  "pending_checks": [
+    "Visually compare every page at mobile and desktop sizes with hydd.fr",
+    "Review translated English and Arabic text, especially legal pages",
+    "Test images/fonts, navigation, popups, mobile menu, links and forms",
+    "Configure and test contact API SMTP under HTTPS",
+    "Audit any Squarespace-only widgets that cannot work independently",
+    "Verify legal permission to self-host all photos and licensed assets",
+    "Approve domain cutover and roll-back plan"
+  ]
+}

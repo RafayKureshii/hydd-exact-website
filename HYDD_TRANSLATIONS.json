@@ -1,0 +1,2123 @@
+{
+  "note": "Human-reviewed HYDD translations. Keys are original French text. Keep HTML/brand names intact.",
+  "source": "https://www.hydd.fr",
+  "original_language": "fr",
+  "target_languages": [
+    "en",
+    "ar"
+  ],
+  "strings": {
+    "\n    \n    \n      Suivant\n    \n  ": {
+      "en": "Next",
+      "ar": "التالي"
+    },
+    "\n    \n      Précédent\n    \n    \n  ": {
+      "en": "Previous",
+      "ar": "السابق"
+    },
+    "\n                  App\n                ": {
+      "en": "App",
+      "ar": "التطبيق"
+    },
+    "\n                  Contact\n                ": {
+      "en": "Contact",
+      "ar": "اتصل بنا"
+    },
+    "\n                  Flotte\n                ": {
+      "en": "Fleet",
+      "ar": "الأسطول"
+    },
+    "\n                  Services\n                ": {
+      "en": "Services",
+      "ar": "الخدمات"
+    },
+    "\n                  À propos\n                ": {
+      "en": "About",
+      "ar": "من نحن"
+    },
+    "\n                  Équipe\n                ": {
+      "en": "Team",
+      "ar": "الفريق"
+    },
+    "\n        App\n      ": {
+      "en": "App",
+      "ar": "التطبيق"
+    },
+    "\n        Contact\n      ": {
+      "en": "Contact",
+      "ar": "اتصل بنا"
+    },
+    "\n        Flotte\n      ": {
+      "en": "Fleet",
+      "ar": "الأسطول"
+    },
+    "\n        Passer au contenu\n      ": {
+      "en": "Skip to content",
+      "ar": "الانتقال إلى المحتوى"
+    },
+    "\n        Services\n      ": {
+      "en": "Services",
+      "ar": "الخدمات"
+    },
+    "\n        À propos\n      ": {
+      "en": "About",
+      "ar": "من نحن"
+    },
+    "\n        Équipe\n      ": {
+      "en": "Team",
+      "ar": "الفريق"
+    },
+    "\n    → Je souhaite être informé en priorité\n  ": {
+      "en": "→ I would like to receive priority updates",
+      "ar": "← أرغب في تلقي التحديثات أولاً"
+    },
+    "\nNous ne pouvons pas encore tout dévoiler. Mais ce que nous pouvons dire, c'est que nous avons conçu cette application en partant d'une seule question :\nQu'est-ce qu'un client VIP devrait pouvoir faire en trois secondes, depuis son téléphone, à n'importe quelle heure, depuis n'importe où dans le monde ?\nLa réponse a guidé chaque décision de conception. ": {
+      "en": "We cannot reveal everything just yet. But we can say that we designed this app around a single question: What should a VIP client be able to do in three seconds, from their phone, at any hour, anywhere in the world? The answer guided every design decision.",
+      "ar": "لا يمكننا الكشف عن كل شيء بعد. لكن يمكننا القول إننا صممنا هذا التطبيق انطلاقاً من سؤال واحد: ما الذي ينبغي أن يتمكن العميل المميز من إنجازه خلال ثلاث ثوانٍ، باستخدام هاتفه، في أي وقت ومن أي مكان في العالم؟ لقد وجّهت الإجابة كل قرار تصميمي."
+    },
+    "             Coordination médicale": {
+      "en": "Medical coordination",
+      "ar": "التنسيق الطبي"
+    },
+    " Aviation privée & billetterie": {
+      "en": "Private aviation & ticketing",
+      "ar": "الطيران الخاص وحجز التذاكر"
+    },
+    " — Mercedes Classe E ": {
+      "en": "— Mercedes E-Class",
+      "ar": "— مرسيدس الفئة E"
+    },
+    " — Mercedes Classe S Guard (blindée)": {
+      "en": "— Mercedes S-Class Guard (armoured)",
+      "ar": "— مرسيدس الفئة S غارد (مصفحة)"
+    },
+    " — Mercedes Classe S Maybach ": {
+      "en": "— Mercedes S-Class Maybach",
+      "ar": "— مرسيدس الفئة S مايباخ"
+    },
+    " — Mercedes Classe V ": {
+      "en": "— Mercedes V-Class",
+      "ar": "— مرسيدس الفئة V"
+    },
+    "\"J'ai appris que le vrai luxe, ce n'est pas la voiture. C'est de ne jamais avoir à s'inquiéter de quoi que ce soit.\"": {
+      "en": "\"I learned that true luxury isn't the car. It's never having to worry about anything at all.\"",
+      "ar": "«تعلمت أن الفخامة الحقيقية ليست في السيارة، بل في ألا تضطر إلى القلق بشأن أي شيء على الإطلاق.»"
+    },
+    "\"Le luxe, c'est l'absence de friction. Mon rôle est de supprimer tous les obstacles avant même que le client ne les aperçoive.\"": {
+      "en": "\"Luxury is the absence of friction. My role is to remove every obstacle before the client even notices it.\"",
+      "ar": "«الفخامة هي انسيابية التجربة. ودوري هو إزالة كل عائق قبل أن يلاحظه العميل.»"
+    },
+    ", email à ": {
+      "en": ", by email at",
+      "ar": "، عبر البريد الإلكتروني على"
+    },
+    ", et dans le respect du Règlement Général sur la Protection des Données (RGPD).": {
+      "en": ", and in accordance with the General Data Protection Regulation (GDPR).",
+      "ar": "، ووفقاً للائحة العامة لحماية البيانات (GDPR)."
+    },
+    ", par téléphone, par email ou via l'application mobile HYDD.": {
+      "en": ", by telephone, email or through the HYDD mobile app.",
+      "ar": "، عبر الهاتف أو البريد الإلكتروني أو تطبيق HYDD للهاتف المحمول."
+    },
+    ", référence de la Haute Parfumerie, est l'une destination des plus exclusives du monde. Dans son flagship avenue Montaigne à Paris, chez Harrods à Londres, et dans 8 boutiques nichées dans les capitales les plus prestigieuses, Henry Jacques unit maison de composition et maison de design pour donner vie non seulement à des créations d'exception, mais à un véritable Art-de-Vivre.": {
+      "en": ", a benchmark in haute perfumery, is among the world's most exclusive destinations. From its flagship on Avenue Montaigne in Paris to Harrods in London and eight boutiques tucked away in prestigious capitals, Henry Jacques brings together the art of perfume composition and design to create not merely exceptional works, but a true art of living.",
+      "ar": "، وهي علامة مرجعية في عالم العطور الراقية، تُعد من أكثر الوجهات حصرية في العالم. فمن متجرها الرئيسي في شارع مونتين بباريس إلى هارودز في لندن وثمانية متاجر في أرقى العواصم، تجمع هنري جاك بين فن تركيب العطور والتصميم لإبداع منتجات استثنائية وأسلوب حياة متكامل."
+    },
+    ", téléphone au +33 7 65 84 95 46, ou application mobile HYDD.": {
+      "en": ", by phone on +33 7 65 84 95 46, or via the HYDD mobile app.",
+      "ar": "، عبر الهاتف على ‎+33 7 65 84 95 46 أو من خلال تطبيق HYDD للهاتف المحمول."
+    },
+    ". HYDD se réserve le droit de modifier son offre de services à tout moment, sans préavis.": {
+      "en": ". HYDD reserves the right to change its service offering at any time without prior notice.",
+      "ar": ". تحتفظ HYDD بالحق في تعديل الخدمات التي تقدمها في أي وقت دون إشعار مسبق."
+    },
+    "1. Premier échange": {
+      "en": "1. Initial consultation",
+      "ar": "١. التواصل الأولي"
+    },
+    "15 ans au cœur du pouvoir": {
+      "en": "15 years at the heart of power",
+      "ar": "١٥ عاماً في قلب دوائر النفوذ"
+    },
+    "18 passagers": {
+      "en": "18 passengers",
+      "ar": "١٨ راكباً"
+    },
+    "2. Plan d'action sur mesure": {
+      "en": "2. Tailored action plan",
+      "ar": "٢. خطة عمل مصممة خصيصاً"
+    },
+    "20 ans dans les coulisses du luxe": {
+      "en": "20 years behind the scenes of luxury",
+      "ar": "٢٠ عاماً وراء كواليس الفخامة"
+    },
+    "2026 HYDD SAS — 176 avenue Charles de Gaulle, 92200 Neuilly-sur-Seine SIRET : 995 033 792 00012": {
+      "en": "2026 HYDD SAS — 176 avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, SIRET: 995 033 792 00012",
+      "ar": "٢٠٢٦ HYDD SAS — 176 avenue Charles de Gaulle, 92200 Neuilly-sur-Seine، رقم SIRET: 995 033 792 00012"
+    },
+    "3 passagers": {
+      "en": "3 passengers",
+      "ar": "٣ ركاب"
+    },
+    "3. Exécution & suivi": {
+      "en": "3. Execution & follow-up",
+      "ar": "٣. التنفيذ والمتابعة"
+    },
+    "4. Disponibilité permanente": {
+      "en": "4. Round-the-clock availability",
+      "ar": "٤. التوافر الدائم"
+    },
+    "7 passagers": {
+      "en": "7 passengers",
+      "ar": "٧ ركاب"
+    },
+    "Accompagnement logistique : transport, hébergement, interprète si nécessaire": {
+      "en": "Logistical assistance: transport, accommodation and an interpreter if needed",
+      "ar": "الدعم اللوجستي: النقل والإقامة ومترجم عند الحاجة"
+    },
+    "Accueil personnalisé": {
+      "en": "Personalised welcome",
+      "ar": "استقبال شخصي"
+    },
+    "Accueil VIP": {
+      "en": "VIP welcome",
+      "ar": "الاستقبال لكبار الشخصيات"
+    },
+    "Accueil VIP en aéroport avec hôtesse dédiée": {
+      "en": "VIP airport welcome with a dedicated hostess",
+      "ar": "استقبال كبار الشخصيات في المطار مع مضيفة مخصصة"
+    },
+    "Accueil VIP — Une expérience aéroportuaire sans friction": {
+      "en": "VIP Welcome — A seamless airport experience",
+      "ar": "الاستقبال الخاص — تجربة مطار سلسة"
+    },
+    "Accès aux billets les plus demandés : finales sportives, galas, premières, événements privés sur invitation. Nous ouvrons les portes qui semblent fermées.": {
+      "en": "Access to the most sought-after tickets: sports finals, galas, premieres and invitation-only private events. We open doors that seem closed.",
+      "ar": "إمكانية الحصول على أكثر التذاكر طلباً: النهائيات الرياضية والحفلات الراقية والعروض الأولى والفعاليات الخاصة المخصصة للمدعوين. نفتح الأبواب التي تبدو مغلقة."
+    },
+    "Accès à tous vos services HYDD": {
+      "en": "Access to all your HYDD services",
+      "ar": "الوصول إلى جميع خدمات HYDD"
+    },
+    "Akim, co-fondateur de HYDD": {
+      "en": "Akim, co-founder of HYDD",
+      "ar": "أكيم، الشريك المؤسس لـ HYDD"
+    },
+    "Anciens militaires des forces spéciales ou agents des services de sécurité d'État": {
+      "en": "Former special-forces military personnel or state security officers",
+      "ar": "عسكريون سابقون في القوات الخاصة أو أفراد سابقون في أجهزة الأمن الحكومية"
+    },
+    "Annulation entre 24h et 48h avant la prestation : facturation de 50% du montant total": {
+      "en": "Cancellation 24 to 48 hours before the service: 50% of the total amount will be charged",
+      "ar": "الإلغاء قبل الخدمة بـ٢٤ إلى ٤٨ ساعة: تُحصّل نسبة ٥٠٪ من المبلغ الإجمالي"
+    },
+    "Annulation moins de 24h avant la prestation : facturation de 100% du montant total": {
+      "en": "Cancellation less than 24 hours before the service: 100% of the total amount will be charged",
+      "ar": "الإلغاء قبل الخدمة بأقل من ٢٤ ساعة: يُحصّل المبلغ الإجمالي بنسبة ١٠٠٪"
+    },
+    "Annulation plus de 48h avant la prestation : aucun frais": {
+      "en": "Cancellation more than 48 hours before the service: no fees",
+      "ar": "الإلغاء قبل الخدمة بأكثر من ٤٨ ساعة: دون رسوم"
+    },
+    "App Store": {
+      "en": "App Store",
+      "ar": "App Store"
+    },
+    "App | Réservez en toute simplicité, voyagez avec luxe — HYDD": {
+      "en": "App | Book effortlessly, travel in luxury — HYDD",
+      "ar": "التطبيق | احجز بكل سهولة وسافر برفاهية — HYDD"
+    },
+    "Application HYDD : la plateforme exclusive pour une expérience VIP inégalée avec réservation anticipée, suivi en temps réel et fonctionnalités innovantes.": {
+      "en": "HYDD app: an exclusive platform for an unparalleled VIP experience, with advance booking, real-time tracking and innovative features.",
+      "ar": "تطبيق HYDD: منصة حصرية لتجربة استثنائية لكبار الشخصيات، مع الحجز المسبق والتتبع المباشر وميزات مبتكرة."
+    },
+    "Application mobile": {
+      "en": "Mobile app",
+      "ar": "تطبيق الهاتف المحمول"
+    },
+    "Approche 100% sur mesure": {
+      "en": "100% bespoke approach",
+      "ar": "نهج مصمم خصيصاً بنسبة ١٠٠٪"
+    },
+    "Après des années passées dans l'univers du transport professionnel, un constat s'est imposé : le marché VIP manquait d'une offre véritablement complète. Des chauffeurs de qualité, oui. Des agences événementielles, oui. Des services de conciergerie, oui. Mais rarement tout cela réuni en un seul interlocuteur, avec le niveau d'exigence et de personnalisation qu'une clientèle internationale est en droit d'attendre.": {
+      "en": "After years in professional transport, one thing became clear: the VIP market lacked a truly comprehensive offering. Excellent chauffeurs existed, as did event agencies and concierge services. But rarely were all these brought together under a single point of contact, with the level of care and personalisation that international clients rightly expect.",
+      "ar": "بعد سنوات من العمل في قطاع النقل الاحترافي، تبيّن لنا أن سوق خدمات كبار الشخصيات يفتقر إلى عرض متكامل حقاً. فالسائقون المحترفون موجودون، وكذلك وكالات الفعاليات وخدمات الكونسيرج، لكن نادراً ما تجتمع جميعها تحت جهة اتصال واحدة وبالمستوى من الدقة والتخصيص الذي يحق للعملاء الدوليين توقعه."
+    },
+    "Après quinze années à observer, comprendre et anticiper les besoins d'une clientèle d'exception, Yasir a fait un constat simple : personne ne proposait une offre réellement complète, à la hauteur des attentes d'une clientèle internationale exigeante.": {
+      "en": "After fifteen years of observing, understanding and anticipating the needs of discerning clients, Yasir reached a simple conclusion: no one offered a genuinely comprehensive service that met the expectations of demanding international clientele.",
+      "ar": "بعد خمسة عشر عاماً من مراقبة احتياجات العملاء المميزين وفهمها واستباقها، توصّل ياسر إلى نتيجة بسيطة: لم يكن هناك من يقدم خدمة متكاملة حقاً ترقى إلى تطلعات العملاء الدوليين الأكثر تطلباً."
+    },
+    "Article 1 — Objet et champ d'application": {
+      "en": "Article 1 — Purpose and scope",
+      "ar": "المادة ١ — الغرض ونطاق التطبيق"
+    },
+    "Article 10 — Confidentialité": {
+      "en": "Article 10 — Confidentiality",
+      "ar": "المادة ١٠ — السرية"
+    },
+    "Article 11 — Force majeure": {
+      "en": "Article 11 — Force majeure",
+      "ar": "المادة ١١ — القوة القاهرة"
+    },
+    "Article 12 — Protection des données personnelles": {
+      "en": "Article 12 — Personal data protection",
+      "ar": "المادة ١٢ — حماية البيانات الشخصية"
+    },
+    "Article 13 — Réclamations": {
+      "en": "Article 13 — Complaints",
+      "ar": "المادة ١٣ — الشكاوى"
+    },
+    "Article 14 — Droit applicable et juridiction compétente": {
+      "en": "Article 14 — Applicable law and jurisdiction",
+      "ar": "المادة ١٤ — القانون الواجب التطبيق والاختصاص القضائي"
+    },
+    "Article 15 — Médiation": {
+      "en": "Article 15 — Mediation",
+      "ar": "المادة ١٥ — الوساطة"
+    },
+    "Article 2 — Services proposés": {
+      "en": "Article 2 — Services offered",
+      "ar": "المادة ٢ — الخدمات المقدمة"
+    },
+    "Article 3 — Commande et confirmation": {
+      "en": "Article 3 — Booking and confirmation",
+      "ar": "المادة ٣ — الطلب والتأكيد"
+    },
+    "Article 4 — Tarifs": {
+      "en": "Article 4 — Prices",
+      "ar": "المادة ٤ — الأسعار"
+    },
+    "Article 5 — Modalités de paiement": {
+      "en": "Article 5 — Payment terms",
+      "ar": "المادة ٥ — شروط الدفع"
+    },
+    "Article 6 — Annulation et modification": {
+      "en": "Article 6 — Cancellation and changes",
+      "ar": "المادة ٦ — الإلغاء والتعديل"
+    },
+    "Article 7 — Obligations de HYDD": {
+      "en": "Article 7 — HYDD's obligations",
+      "ar": "المادة ٧ — التزامات HYDD"
+    },
+    "Article 8 — Obligations du Client": {
+      "en": "Article 8 — Customer's obligations",
+      "ar": "المادة ٨ — التزامات العميل"
+    },
+    "Article 9 — Responsabilité": {
+      "en": "Article 9 — Liability",
+      "ar": "المادة ٩ — المسؤولية"
+    },
+    "Au DÉPART — De votre chauffeur jusqu'à la porte d'embarquement": {
+      "en": "AT DEPARTURE — From your chauffeur to the boarding gate",
+      "ar": "عند المغادرة — من سائقك إلى بوابة الصعود إلى الطائرة"
+    },
+    "Aucune demande trop complexe": {
+      "en": "No request is too complex",
+      "ar": "لا يوجد طلب شديد التعقيد"
+    },
+    "Aucune information relative au Client ne sera divulguée à des tiers sans son accord préalable exprès, sauf obligation légale.": {
+      "en": "No information about the Customer will be disclosed to third parties without their express prior consent, except where required by law.",
+      "ar": "لن تُفصح أي معلومات تخص العميل لأطراف ثالثة دون موافقته الصريحة والمسبقة، إلا إذا اقتضى القانون ذلك."
+    },
+    "Basés à Paris, nous accompagnons particuliers et professionnels exigeants dans les plus grandes métropoles mondiales — New York, Milan, Genève, Monaco et au-delà.": {
+      "en": "Based in Paris, we serve discerning private and business clients in the world's leading cities — New York, Milan, Geneva, Monaco and beyond.",
+      "ar": "انطلاقاً من باريس، نخدم الأفراد والشركات الباحثين عن التميز في كبرى مدن العالم — نيويورك وميلانو وجنيف وموناكو وغيرها."
+    },
+    "Bentley Flying Spur": {
+      "en": "Bentley Flying Spur",
+      "ar": "بنتلي فلاينغ سبير"
+    },
+    "Bentley Flying Spur ": {
+      "en": "Bentley Flying Spur",
+      "ar": "بنتلي فلاينغ سبير"
+    },
+    "Berlines exécutives": {
+      "en": "Executive saloons",
+      "ar": "سيارات السيدان التنفيذية"
+    },
+    "Berlines · Prestige · Protection · Transport de groupe": {
+      "en": "Saloons · Prestige · Protection · Group transport",
+      "ar": "سيارات سيدان · فخامة · حماية · نقل المجموعات"
+    },
+    "Bienvenue chez ": {
+      "en": "Welcome to",
+      "ar": "مرحباً بكم في"
+    },
+    "C'est cette complémentarité qui est au cœur de HYDD. Et c'est elle qui garantit que chaque client bénéficie à la fois d'une attention humaine irréprochable et d'une logistique sans faille.": {
+      "en": "This complementary partnership lies at the heart of HYDD. It ensures that every client benefits from both impeccable personal attention and flawless logistics.",
+      "ar": "هذا التكامل هو جوهر HYDD، وهو ما يضمن لكل عميل اهتماماً إنسانياً لا تشوبه شائبة وتنظيماً لوجستياً بلا أخطاء."
+    },
+    "C'est exactement ce qu'Akim apporte à HYDD. Derrière chaque prestation fluide, chaque transfert parfaitement synchronisé, chaque événement qui se déroule sans accroc — il y a sa rigueur, son réseau et son instinct forgé par l'expérience.": {
+      "en": "That is exactly what Akim brings to HYDD. Behind every seamless service, perfectly synchronised transfer and smoothly run event lie his rigour, his network and the instincts forged by experience.",
+      "ar": "وهذا بالضبط ما يقدمه أكيم إلى HYDD. فخلف كل خدمة سلسة وكل انتقال منسق بدقة وكل فعالية ناجحة، تكمن صرامته المهنية وشبكة علاقاته وحدسه الذي صقلته الخبرة."
+    },
+    "Cadrage & stratégie": {
+      "en": "Planning & strategy",
+      "ar": "التخطيط والاستراتيجية"
+    },
+    "Carte bancaire": {
+      "en": "Bank card",
+      "ar": "بطاقة مصرفية"
+    },
+    "Ce n'est que le début.": {
+      "en": "This is only the beginning.",
+      "ar": "هذه مجرد البداية."
+    },
+    "Ce que cette expérience a forgé": {
+      "en": "What this experience shaped",
+      "ar": "ما الذي صاغته هذه التجربة"
+    },
+    "Ce que ses 20 ans ont construit": {
+      "en": "What his 20 years have built",
+      "ar": "ما الذي صنعته خبرته خلال ٢٠ عاماً"
+    },
+    "Ce que vous pouvez attendre": {
+      "en": "What you can expect",
+      "ar": "ما الذي يمكنكم توقعه"
+    },
+    "Ce qui distingue HYDD de toute autre offre de sécurité : protection rapprochée et transport de luxe ne sont pas deux prestations séparées. Elles forment un dispositif unique, cohérent et piloté par un interlocuteur unique.": {
+      "en": "What sets HYDD apart from any other security offering is that close protection and luxury transport are not separate services. They form one coherent solution, managed through a single point of contact.",
+      "ar": "ما يميز HYDD عن غيرها من خدمات الأمن هو أن الحماية الشخصية والنقل الفاخر ليستا خدمتين منفصلتين، بل منظومة واحدة متكاملة يديرها مسؤول اتصال واحد."
+    },
+    "Ce qui nous distingue": {
+      "en": "What sets us apart",
+      "ar": "ما يميزنا"
+    },
+    "Certaines idées naissent d'une frustration. ": {
+      "en": "Some ideas are born of frustration.",
+      "ar": "تولد بعض الأفكار من الإحباط."
+    },
+    "Certifiés premiers secours et gestion de crises": {
+      "en": "Certified in first aid and crisis management",
+      "ar": "معتمدون في الإسعافات الأولية وإدارة الأزمات"
+    },
+    "Cette collaboration illustre notre capacité à répondre aux exigences les plus élevées en matière de transport officiel, dans un contexte de sécurité renforcée et de visibilité internationale.": {
+      "en": "This partnership demonstrates our ability to meet the highest standards of official transport in an environment of heightened security and international visibility.",
+      "ar": "تُظهر هذه الشراكة قدرتنا على تلبية أعلى متطلبات النقل الرسمي في ظروف تتسم بتدابير أمنية مشددة واهتمام دولي واسع."
+    },
+    "cgv | Découvrez, Réservez, Profitez en toute confiance — HYDD": {
+      "en": "Terms & Conditions | Discover, Book and Enjoy with Confidence — HYDD",
+      "ar": "الشروط والأحكام | اكتشف واحجز واستمتع بثقة — HYDD"
+    },
+    "Chambord, Chenonceau, Amboise — un voyage au cœur de l'architecture Renaissance française.": {
+      "en": "Chambord, Chenonceau, Amboise — a journey into the heart of French Renaissance architecture.",
+      "ar": "شامبور وشينونسو وأمبواز — رحلة إلى قلب عمارة عصر النهضة الفرنسية."
+    },
+    "Chaque itinéraire est pensé selon vos envies, votre rythme et vos préférences. Aucun groupe, aucune contrainte horaire juste vous et l'essentiel.": {
+      "en": "Every itinerary is designed around your wishes, pace and preferences. No groups, no rigid schedules — just you and what matters.",
+      "ar": "نصمم كل مسار وفقاً لرغباتكم وإيقاعكم وتفضيلاتكم. لا مجموعات ولا مواعيد صارمة — أنتم فقط وما يهمكم."
+    },
+    "Chaque mission est préparée en amont avec rigueur : analyse des menaces, reconnaissance des itinéraires, coordination avec les équipes locales et protocoles d'urgence définis avant le premier trajet. Rien n'est improvisé. Tout est maîtrisé.": {
+      "en": "Every mission is prepared meticulously: threat assessment, route reconnaissance, coordination with local teams and emergency protocols defined before the first journey. Nothing is improvised. Everything is under control.",
+      "ar": "تُحضّر كل مهمة بدقة مسبقاً: تقييم التهديدات واستطلاع المسارات والتنسيق مع الفرق المحلية ووضع بروتوكولات الطوارئ قبل الرحلة الأولى. لا مجال للارتجال، فكل شيء مدروس."
+    },
+    "Chaque prestation est disponible 24h/24, 7j/7, à Paris et dans les plus grandes destinations mondiales.": {
+      "en": "Every service is available 24 hours a day, seven days a week, in Paris and the world's leading destinations.",
+      "ar": "تتوفر جميع الخدمات على مدار الساعة طوال أيام الأسبوع، في باريس وأبرز الوجهات العالمية."
+    },
+    "Chaque professionnel mobilisé par HYDD est rigoureusement sélectionné selon des critères stricts :": {
+      "en": "Every professional engaged by HYDD is carefully selected according to strict criteria:",
+      "ar": "يُختار كل محترف يعمل مع HYDD بعناية وفق معايير صارمة:"
+    },
+    "Chaque véhicule ": {
+      "en": "Every vehicle",
+      "ar": "كل مركبة"
+    },
+    "Chaque événement est unique.": {
+      "en": "Every event is unique.",
+      "ar": "كل فعالية فريدة من نوعها."
+    },
+    "Chauffeur dédié": {
+      "en": "Dedicated chauffeur",
+      "ar": "سائق خاص متفرغ"
+    },
+    "Chauffeur Dédié": {
+      "en": "Dedicated Chauffeur",
+      "ar": "سائق خاص متفرغ"
+    },
+    "Chauffeur privé VIP à Paris et à l'international — mise à disposition, transferts aéroport, conciergerie et protection rapprochée. Disponible 24h/24": {
+      "en": "VIP private chauffeur in Paris and worldwide — dedicated drivers, airport transfers, concierge and close protection. Available 24/7.",
+      "ar": "خدمة سائق خاص لكبار الشخصيات في باريس وحول العالم — سائقون متفرغون وتنقلات المطار وكونسيرج وحماية شخصية. متاحة على مدار الساعة."
+    },
+    "Chefs d'État, hauts dirigeants, personnalités publiques, familles à haute valeur nette, délégations diplomatiques — certains profils exigent une protection pensée, coordonnée et parfaitement intégrée à chaque déplacement.": {
+      "en": "Heads of state, senior executives, public figures, high-net-worth families and diplomatic delegations — some profiles require carefully planned, coordinated protection seamlessly integrated into every journey.",
+      "ar": "رؤساء الدول وكبار التنفيذيين والشخصيات العامة والعائلات الثرية والوفود الدبلوماسية — تتطلب بعض الشخصيات حماية مدروسة ومنسقة ومتكاملة بسلاسة مع كل تنقل."
+    },
+    "Chez HYDD, chaque trajet est pensé sur mesure : discrétion, ponctualité et confort d'exception sont notre standard, pas notre promesse.": {
+      "en": "At HYDD, every journey is bespoke: discretion, punctuality and exceptional comfort are our standard, not merely our promise.",
+      "ar": "في HYDD، تُصمّم كل رحلة خصيصاً لكم: فالخصوصية والدقة في المواعيد والراحة الاستثنائية هي معاييرنا، وليست مجرد وعود."
+    },
+    "Chez HYDD, la discrétion n'est pas une option. La ponctualité n'est pas un effort. Et la qualité n'est pas un argument de vente — c'est notre standard minimum.": {
+      "en": "At HYDD, discretion is not optional. Punctuality takes no effort. And quality is not a selling point — it is our minimum standard.",
+      "ar": "في HYDD، السرية ليست خياراً. والالتزام بالمواعيد ليس عبئاً. والجودة ليست حجة تسويقية — بل الحد الأدنى من معاييرنا."
+    },
+    "Châteaux de la Loire Renaissance & élégance": {
+      "en": "Loire Valley Châteaux — Renaissance & elegance",
+      "ar": "قصور وادي اللوار — أناقة عصر النهضة"
+    },
+    "Comment nous travaillons": {
+      "en": "How we work",
+      "ar": "كيف نعمل"
+    },
+    "Comment ça se passe ?": {
+      "en": "How does it work?",
+      "ar": "كيف تسير الأمور؟"
+    },
+    "Comprendre avant de servir": {
+      "en": "Understand before serving",
+      "ar": "نفهم أولاً ثم نخدم"
+    },
+    "Conception & Organisation": {
+      "en": "Planning & Organisation",
+      "ar": "التخطيط والتنظيم"
+    },
+    "Conciergerie": {
+      "en": "Concierge",
+      "ar": "الكونسيرج"
+    },
+    "CONCIERGERIE": {
+      "en": "CONCIERGE",
+      "ar": "الكونسيرج"
+    },
+    "CONDITIONS GÉNÉRALES DE VENTE": {
+      "en": "GENERAL TERMS AND CONDITIONS OF SALE",
+      "ar": "الشروط والأحكام العامة للبيع"
+    },
+    "Confidentialité absolue": {
+      "en": "Absolute confidentiality",
+      "ar": "سرية تامة"
+    },
+    "Confidentialité totale": {
+      "en": "Total confidentiality",
+      "ar": "سرية كاملة"
+    },
+    "Configuration modulable, finitions premium, espace généreux — la Classe V accueille jusqu'à 7 passagers dans des conditions de confort rarement atteintes dans cette catégorie. Idéale pour les délégations, familles et groupes de voyageurs exigeants.": {
+      "en": "Flexible configuration, premium finishes and generous space — the V-Class comfortably seats up to seven passengers with a level of comfort rarely found in this category. Ideal for delegations, families and discerning groups.",
+      "ar": "تهيئة مرنة وتشطيبات فاخرة ومساحة رحبة — تستوعب الفئة V ما يصل إلى سبعة ركاب براحة نادراً ما تتوافر في هذه الفئة. مثالية للوفود والعائلات ومجموعات المسافرين الباحثين عن التميز."
+    },
+    "Conformément aux dispositions du Code de la consommation relatives au règlement amiable des litiges, le Client consommateur a le droit de recourir gratuitement à un service de médiation.": {
+      "en": "In accordance with the French Consumer Code provisions on the amicable settlement of disputes, consumer customers have the right to use a mediation service free of charge.",
+      "ar": "وفقاً لأحكام قانون المستهلك الفرنسي المتعلقة بالتسوية الودية للنزاعات، يحق للعميل المستهلك اللجوء مجاناً إلى خدمة الوساطة."
+    },
+    "Conférence internationale, lancement de produit, gala privé, séminaire d'entreprise — nous prenons en charge l'intégralité de votre événement, de la première réunion de cadrage jusqu'au dernier invité raccompagné.": {
+      "en": "International conference, product launch, private gala or corporate seminar — we manage your entire event, from the initial planning meeting to the departure of the last guest.",
+      "ar": "مؤتمر دولي أو إطلاق منتج أو حفل خاص أو ندوة للشركات — نتولى إدارة فعاليتكم بالكامل، من أول اجتماع للتخطيط وحتى توديع آخر ضيف."
+    },
+    "Contact": {
+      "en": "Contact",
+      "ar": "اتصل بنا"
+    },
+    "CONTACT | Réservez maintenant, contactez-nous facile — HYDD": {
+      "en": "CONTACT | Book Now, Get in Touch Easily — HYDD",
+      "ar": "اتصل بنا | احجز الآن وتواصل معنا بسهولة — HYDD"
+    },
+    "Contactez HYDD pour des services de transport privé, événements et sécurité. Disponible 24/7 pour vos demandes en toute confidentialité.": {
+      "en": "Contact HYDD for private transport, event and security services. Available 24/7 for discreet enquiries.",
+      "ar": "تواصلوا مع HYDD لخدمات النقل الخاص والفعاليات والأمن. نحن متاحون على مدار الساعة لاستقبال استفساراتكم بسرية تامة."
+    },
+    "Contactez-nous": {
+      "en": "Contact us",
+      "ar": "تواصل معنا"
+    },
+    "Contactez-nous pour concevoir votre itinéraire idéal.": {
+      "en": "Contact us to design your ideal itinerary.",
+      "ar": "تواصلوا معنا لتصميم مسار رحلتكم المثالي."
+    },
+    "Contactez-nous pour découvrir comment notre conciergerie de luxe peut vous aider à créer une expérience unique et personnalisée.": {
+      "en": "Contact us to discover how our luxury concierge service can help you create a unique, personalised experience.",
+      "ar": "تواصلوا معنا لمعرفة كيف تساعدكم خدمات الكونسيرج الفاخرة لدينا على ابتكار تجربة فريدة ومصممة خصيصاً لكم."
+    },
+    "Contactez-nous pour réserver votre excursion et découvrir les trésors de l'Île-de-France et des régions avoisinantes. Nous sommes à votre disposition pour créer une expérience sur mesure qui répond à vos attentes.": {
+      "en": "Contact us to book your excursion and discover the treasures of Île-de-France and the surrounding regions. We're here to create an experience tailored to your wishes.",
+      "ar": "تواصلوا معنا لحجز رحلتكم الاستكشافية واكتشاف كنوز إيل دو فرانس والمناطق المحيطة بها. نحن على استعداد لتصميم تجربة تلبي تطلعاتكم."
+    },
+    "Contrôle des passeports & immigration": {
+      "en": "Passport control & immigration",
+      "ar": "مراقبة الجوازات والهجرة"
+    },
+    "Coordination complète entre les différents intervenants médicaux": {
+      "en": "Full coordination among the various medical providers",
+      "ar": "تنسيق شامل بين مختلف مقدمي الرعاية الطبية"
+    },
+    "Coordination en amont": {
+      "en": "Advance coordination",
+      "ar": "التنسيق المسبق"
+    },
+    "Coordination médicale": {
+      "en": "Medical coordination",
+      "ar": "التنسيق الطبي"
+    },
+    "Coordination prestataires": {
+      "en": "Supplier coordination",
+      "ar": "التنسيق مع مزودي الخدمات"
+    },
+    "D'autres, d'une conviction. ": {
+      "en": "Others, from conviction.",
+      "ar": "وتنبع أفكار أخرى من قناعة."
+    },
+    "Dans le monde du luxe, la logistique est l'art de faire en sorte que tout semble facile. Que rien ne grince. Que chaque rouage tourne sans que le client n'ait à y penser une seule seconde.": {
+      "en": "In the world of luxury, logistics is the art of making everything feel effortless. Nothing should jar. Every cog should turn without the client having to think about it for a second.",
+      "ar": "في عالم الفخامة، تتمثل براعة اللوجستيات في جعل كل شيء يبدو سهلاً. دون تعثر أو خلل، بحيث تعمل التفاصيل بانسجام تام دون أن يضطر العميل للتفكير فيها ولو للحظة."
+    },
+    "De la conception à la logistique, nous orchestrons vos événements avec discrétion et excellence.": {
+      "en": "From concept to logistics, we orchestrate your events with discretion and excellence.",
+      "ar": "من الفكرة إلى التنفيذ اللوجستي، ننظم فعالياتكم بسرية وتميز."
+    },
+    "De la vision à la réalité, nous gérons tout": {
+      "en": "From vision to reality, we manage everything",
+      "ar": "من الرؤية إلى الواقع، نتولى كل شيء"
+    },
+    "De Paris à New York, de Genève à Monaco, de Londres à Milan — nous opérons dans les plus grandes métropoles mondiales grâce à un réseau de partenaires rigoureusement sélectionnés. Partout où vous allez, HYDD vous suit.": {
+      "en": "From Paris to New York, Geneva to Monaco, London to Milan — we operate in the world's leading cities through a carefully vetted network of partners. Wherever you go, HYDD goes with you.",
+      "ar": "من باريس إلى نيويورك ومن جنيف إلى موناكو ومن لندن إلى ميلانو — نعمل في أبرز مدن العالم عبر شبكة مختارة بعناية من الشركاء. أينما ذهبتم، ترافقكم HYDD."
+    },
+    "Deauville & Honfleur - Normandie chic": {
+      "en": "Deauville & Honfleur — Chic Normandy",
+      "ar": "دوفيل وأونفلور — نورماندي الأنيقة"
+    },
+    "Derrière chaque trajet, une leçon. Sur le service. Sur l'exigence. Sur ce que signifie vraiment prendre soin de quelqu'un.": {
+      "en": "Behind every journey lies a lesson. About service. About high standards. About what it really means to care for someone.",
+      "ar": "وراء كل رحلة درس في الخدمة والتميز والمعنى الحقيقي للاهتمام بالآخرين."
+    },
+    "Des chauffeurs formés aux exigences d'une clientèle internationale et habitués aux environnements aéroportuaires.": {
+      "en": "Chauffeurs trained to meet the demands of an international clientele and experienced in airport environments.",
+      "ar": "سائقون مدربون لتلبية متطلبات العملاء الدوليين ومتمرسون في بيئات المطارات."
+    },
+    "Des frais supplémentaires pourront être facturés en cas de :": {
+      "en": "Additional charges may apply in the following cases:",
+      "ar": "قد تُفرض رسوم إضافية في الحالات التالية:"
+    },
+    "Des itinéraires sur mesure pour explorer les plus beaux joyaux de France, à votre rythme.": {
+      "en": "Bespoke itineraries to explore France's finest treasures at your own pace.",
+      "ar": "مسارات مصممة خصيصاً لاستكشاف أجمل كنوز فرنسا على إيقاعكم الخاص."
+    },
+    "Diapositive précédente": {
+      "en": "Previous slide",
+      "ar": "الشريحة السابقة"
+    },
+    "Diapositive suivante": {
+      "en": "Next slide",
+      "ar": "الشريحة التالية"
+    },
+    "Diapositive 1": {
+      "en": "Slide 1",
+      "ar": "الشريحة ١"
+    },
+    "Diapositive 1 (diapositive actuelle)": {
+      "en": "Slide 1 (current slide)",
+      "ar": "الشريحة ١ (الشريحة الحالية)"
+    },
+    "Discrets, efficaces et parfaitement rodés aux protocoles des plus grands aéroports internationaux — Paris CDG, Orly, Londres Heathrow, Genève, Milan Malpensa, Monaco Héliport, Nice Côte d'Azur — nos hôtesses transforment chaque passage aéroportuaire en une expérience fluide et sereine.": {
+      "en": "Discreet, efficient and fully versed in the procedures of major international airports — Paris CDG, Orly, London Heathrow, Geneva, Milan Malpensa, Monaco Heliport and Nice Côte d'Azur — our hostesses turn every airport passage into a calm, seamless experience.",
+      "ar": "تتميز مضيفاتنا بالسرية والكفاءة والإلمام التام بإجراءات أكبر المطارات الدولية — باريس شارل ديغول وأورلي ولندن هيثرو وجنيف وميلانو مالبينسا ومهبط موناكو ونيس كوت دازور — ليحوّلن كل مرور بالمطار إلى تجربة هادئة وسلسة."
+    },
+    "Discrets, polyglottes, impeccablement présentés et parfaitement intégrés à votre environnement": {
+      "en": "Discreet, multilingual, impeccably presented and seamlessly integrated into your environment",
+      "ar": "يتسمون بالسرية ويتحدثون عدة لغات ويتميزون بمظهر أنيق ويندمجون بانسجام في محيطكم"
+    },
+    "Discrétion": {
+      "en": "Discretion",
+      "ar": "السرية"
+    },
+    "Discrétion & confort": {
+      "en": "Discretion & comfort",
+      "ar": "الخصوصية والراحة"
+    },
+    "Disneyland Paris réinventé pour une clientèle VIP. Guide privé dédié, accès prioritaire à toutes les attractions sans attente, placement en premières loges pour les spectacles et parades, et accompagnement personnalisé tout au long de la journée. ": {
+      "en": "Disneyland Paris reimagined for VIP guests. A dedicated private guide, priority access to attractions without queues, front-row seats for shows and parades, and personalised assistance throughout the day.",
+      "ar": "ديزني لاند باريس بتجربة جديدة لعملاء كبار الشخصيات: مرشد خاص مخصص لكم، وأولوية دخول الألعاب دون انتظار، ومقاعد أمامية للعروض والاستعراضات، ومرافقة شخصية طوال اليوم."
+    },
+    "Disneyland Paris —": {
+      "en": "Disneyland Paris —",
+      "ar": "ديزني لاند باريس —"
+    },
+    "Disponibilité 24h/24, 7j/7": {
+      "en": "Available 24 hours a day, seven days a week",
+      "ar": "متاحون على مدار الساعة طوال أيام الأسبوع"
+    },
+    "Disponible 24h/24 · 7j/7© 2026 ": {
+      "en": "Available 24/7 · © 2026",
+      "ar": "متاحون ٢٤/٧ · © ٢٠٢٦"
+    },
+    "Douanes": {
+      "en": "Customs",
+      "ar": "الجمارك"
+    },
+    "Durant deux décennies, il a orchestré des opérations logistiques complexes pour des clients, des événements et des organisations parmi les plus exigeants du monde. Délais impossibles, demandes de dernière minute, coordination internationale — Akim a tout géré, toujours avec le même calme et la même précision.": {
+      "en": "For two decades, he orchestrated complex logistics for some of the world's most demanding clients, events and organisations. Impossible deadlines, last-minute requests and international coordination — Akim handled it all with the same calm and precision.",
+      "ar": "على مدى عقدين، أدار عمليات لوجستية معقدة لبعض أكثر العملاء والفعاليات والمؤسسات تطلباً في العالم. مواعيد شبه مستحيلة وطلبات اللحظة الأخيرة وتنسيق دولي — تولّى أكيم كل ذلك بهدوء ودقة ثابتين."
+    },
+    "Dès réception de vos informations de vol, notre équipe prépare votre accueil dans les moindres détails. Votre hôtesse est briefée sur votre identité, vos préférences et le nombre de bagages attendus. Elle se positionne en zone d'arrivée avant même que votre avion ne touche le sol.": {
+      "en": "As soon as we receive your flight details, our team prepares every aspect of your welcome. Your hostess is briefed on your identity, preferences and expected luggage, and takes her position in arrivals before your plane even lands.",
+      "ar": "فور استلام تفاصيل رحلتكم الجوية، يجهز فريقنا استقبالكم بأدق التفاصيل. وتُطلع المضيفة على هويتكم وتفضيلاتكم وعدد الحقائب المتوقع، وتتمركز في منطقة الوصول قبل هبوط الطائرة."
+    },
+    "Dès votre sortie, votre chauffeur vous attend, tablette à la main, prêt à prendre en charge vos bagages et vous conduire à votre destination dans le confort le plus total.": {
+      "en": "As you exit, your chauffeur awaits with a name tablet, ready to take your bags and drive you to your destination in complete comfort.",
+      "ar": "عند خروجكم، يكون سائقكم بانتظاركم حاملاً لوحة باسمكم، ومستعداً لحمل أمتعتكم ونقلكم إلى وجهتكم بأقصى درجات الراحة."
+    },
+    "Découvrez les conditions générales de vente de HYDD, spécialiste en services de luxe, transferts, événements et conciergerie haut de gamme à Neuilly-sur-Seine.": {
+      "en": "Discover HYDD's general terms and conditions of sale for luxury transport, transfers, events and premium concierge services in Neuilly-sur-Seine.",
+      "ar": "اطلعوا على الشروط والأحكام العامة لخدمات HYDD المتخصصة في النقل الفاخر والتنقلات والفعاليات والكونسيرج المميز في نويي سور سين."
+    },
+    "Elle vous oriente vers les comptoirs prioritaires ou les files dédiées First & Business, supervise l'enregistrement de vos bagages et s'assure que tout est en ordre avant de passer à l'étape suivante.": {
+      "en": "She guides you to priority desks or dedicated First and Business Class queues, oversees baggage check-in and ensures everything is ready for the next stage.",
+      "ar": "ترشدكم إلى المناضد ذات الأولوية أو الصفوف المخصصة للدرجة الأولى ودرجة رجال الأعمال، وتشرف على تسجيل الأمتعة وتتأكد من جاهزية كل شيء للمرحلة التالية."
+    },
+    "Elles s'appliquent à toute commande passée par un client particulier ou professionnel (ci-après \"le Client\") auprès de HYDD, que ce soit via le site internet ": {
+      "en": "These terms apply to every order placed with HYDD by an individual or business customer (hereinafter the \"Customer\"), whether through the website",
+      "ar": "تسري هذه الشروط على كل طلب يقدمه عميل فرد أو شركة (ويُشار إليه فيما يلي باسم «العميل») إلى HYDD، سواء عبر الموقع الإلكتروني"
+    },
+    "En cas d'impossibilité d'exécuter la prestation pour des raisons indépendantes de sa volonté (force majeure, indisponibilité imprévue du véhicule ou du chauffeur), HYDD s'engage à en informer le Client dans les plus brefs délais et à proposer une solution alternative ou un remboursement intégral des sommes versées.": {
+      "en": "If HYDD cannot provide a service for reasons beyond its control (force majeure, unforeseen unavailability of a vehicle or chauffeur), it will notify the Customer as soon as possible and offer an alternative solution or a full refund of amounts paid.",
+      "ar": "إذا تعذر على HYDD تقديم الخدمة لأسباب خارجة عن إرادتها (القوة القاهرة أو عدم توافر المركبة أو السائق بصورة غير متوقعة)، فإنها تلتزم بإبلاغ العميل في أقرب وقت وتقديم حل بديل أو رد كامل المبالغ المدفوعة."
+    },
+    "En cas de dégradation du véhicule imputable au Client, les frais de remise en état seront intégralement à sa charge.": {
+      "en": "If the vehicle is damaged through the Customer's fault, the Customer will bear the full cost of repairs.",
+      "ar": "إذا تسبّب العميل في إتلاف المركبة، يتحمل كامل تكاليف إصلاحها."
+    },
+    "En cas de force majeure, HYDD s'engage à informer le Client dans les meilleurs délais et à rechercher une solution alternative dans la mesure du possible.": {
+      "en": "In the event of force majeure, HYDD will inform the Customer as soon as possible and seek an alternative solution where feasible.",
+      "ar": "في حال وقوع قوة قاهرة، تلتزم HYDD بإبلاغ العميل في أقرب وقت والسعي إلى إيجاد حل بديل قدر الإمكان."
+    },
+    "En cas de retard de paiement, des pénalités de retard seront appliquées au taux légal en vigueur, conformément aux dispositions de la loi n°92-1442 du 31 décembre 1992.": {
+      "en": "In the event of late payment, penalties will apply at the statutory rate, in accordance with the provisions of French Law No. 92-1442 of 31 December 1992.",
+      "ar": "في حال التأخر في السداد، تُطبق غرامات التأخير بالسعر القانوني الساري وفقاً لأحكام القانون الفرنسي رقم 92-1442 المؤرخ في ٣١ ديسمبر ١٩٩٢."
+    },
+    "En vigueur au 1er janvier 2025": {
+      "en": "Effective 1 January 2025",
+      "ar": "سارية اعتباراً من ١ يناير ٢٠٢٥"
+    },
+    "Escapade privée": {
+      "en": "Private excursion",
+      "ar": "رحلة خاصة"
+    },
+    "Escapades privées": {
+      "en": "Private excursions",
+      "ar": "رحلات خاصة"
+    },
+    "Escapades privées et excursions sur mesure": {
+      "en": "Private excursions and bespoke tours",
+      "ar": "رحلات خاصة وجولات مصممة حسب الطلب"
+    },
+    "Eskandar a fait sien cet univers. Il sait qu’une clientèle exigeante ne demande pas simplement un service — elle attend une compréhension immédiate de ses codes, de son rythme, de ses priorités. C’est cette lecture fine des attentes qui fait de lui l’interlocuteur naturel de nos clients du Golfe et du Moyen-Orient.": {
+      "en": "Eskandar has made this world his own. He knows discerning clients expect more than a service: they expect an immediate understanding of their codes, rhythm and priorities. This nuanced insight makes him the natural point of contact for our clients from the Gulf and the Middle East.",
+      "ar": "أصبح إسكندر جزءاً أصيلاً من هذا العالم. فهو يعلم أن العملاء المميزين لا يطلبون خدمة فحسب، بل ينتظرون فهماً فورياً لتقاليدهم وإيقاع حياتهم وأولوياتهم. وهذا الفهم الدقيق يجعله جهة التواصل الطبيعية لعملائنا من الخليج والشرق الأوسط."
+    },
+    "Eskandar, L’ambassadeur — Directeur du Pôle Clientèle Moyen-Orient": {
+      "en": "Eskandar, The Ambassador — Director of Middle East Client Relations",
+      "ar": "إسكندر، السفير — مدير علاقات عملاء الشرق الأوسط"
+    },
+    "est de dernière génération, rigoureusement entretenu et préparé avant chaque prise en charge. ": {
+      "en": "is a latest-generation model, meticulously maintained and prepared before every pickup.",
+      "ar": "من أحدث الطرازات، وتخضع لصيانة دقيقة وتجهيز شامل قبل كل خدمة."
+    },
+    "Et des fonctionnalités exclusives": {
+      "en": "And exclusive features",
+      "ar": "وميزات حصرية"
+    },
+    "Evénements": {
+      "en": "Events",
+      "ar": "الفعاليات"
+    },
+    "Excursions shopping": {
+      "en": "Shopping excursions",
+      "ar": "جولات التسوق"
+    },
+    "Expérience": {
+      "en": "Experience",
+      "ar": "الخبرة"
+    },
+    "Expérimentés dans la protection de personnalités internationales, chefs d'entreprise et délégations officielles": {
+      "en": "Experienced in protecting international public figures, business leaders and official delegations",
+      "ar": "ذوو خبرة في حماية الشخصيات الدولية وقادة الأعمال والوفود الرسمية"
+    },
+    "Fermer": {
+      "en": "Close",
+      "ar": "إغلاق"
+    },
+    "Fermer le menu": {
+      "en": "Close menu",
+      "ar": "إغلاق القائمة"
+    },
+    "Fiabilité": {
+      "en": "Reliability",
+      "ar": "الموثوقية"
+    },
+    "Flexibilité": {
+      "en": "Flexibility",
+      "ar": "المرونة"
+    },
+    "Flotte dédiée": {
+      "en": "Dedicated fleet",
+      "ar": "أسطول مخصص"
+    },
+    "Fondée dans les années 1970 dans le sud de la France, la Maison ": {
+      "en": "Founded in the 1970s in the south of France, the Maison",
+      "ar": "تأسست الدار في سبعينيات القرن الماضي بجنوب فرنسا"
+    },
+    "Fondée à Paris, notre société a vu le jour il y a moins d'un an. Jeune, oui. Mais portée par une expérience terrain solide, un réseau construit sur la durée et une passion intacte pour le service d'exception.": {
+      "en": "Founded in Paris less than a year ago, our company is young — yet backed by extensive hands-on experience, a network built over time and an enduring passion for exceptional service.",
+      "ar": "تأسست شركتنا في باريس منذ أقل من عام. نحن شركة فتية، نعم، لكننا نستند إلى خبرة ميدانية راسخة وشبكة علاقات بُنيت على مدى سنوات وشغف مستمر بالخدمة الاستثنائية."
+    },
+    "Fournir des informations exactes et complètes lors de la commande": {
+      "en": "Provide accurate and complete information when placing an order",
+      "ar": "تقديم معلومات دقيقة وكاملة عند تقديم الطلب"
+    },
+    "Fournir des véhicules de prestige en parfait état de fonctionnement et de propreté": {
+      "en": "Provide prestige vehicles in perfect working order and cleanliness",
+      "ar": "توفير مركبات فاخرة بحالة تشغيل ونظافة ممتازتين"
+    },
+    "Frais de péage, parking ou aéroport non inclus dans le devis initial": {
+      "en": "Tolls, parking or airport fees not included in the initial quotation",
+      "ar": "رسوم الطرق أو مواقف السيارات أو المطارات غير المشمولة في عرض السعر الأولي"
+    },
+    "Français": {
+      "en": "French",
+      "ar": "الفرنسية"
+    },
+    "Gallery 3 — HYDD": {
+      "en": "Gallery 3 — HYDD",
+      "ar": "معرض الصور ٣ — HYDD"
+    },
+    "Garantir la confidentialité absolue concernant l'identité, les déplacements et les informations personnelles du Client": {
+      "en": "Ensure absolute confidentiality regarding the Customer's identity, journeys and personal information",
+      "ar": "ضمان السرية التامة لهوية العميل وتنقلاته ومعلوماته الشخصية"
+    },
+    "Gastronomie & tables d'exception": {
+      "en": "Fine dining & exceptional restaurants",
+      "ar": "فن الطهي والمطاعم الاستثنائية"
+    },
+    "General 4 — HYDD": {
+      "en": "General 4 — HYDD",
+      "ar": "عام ٤ — HYDD"
+    },
+    "General 6 — HYDD": {
+      "en": "General 6 — HYDD",
+      "ar": "عام ٦ — HYDD"
+    },
+    "Gestion des invités": {
+      "en": "Guest management",
+      "ar": "إدارة الضيوف"
+    },
+    "Giverny — Sur les pas de Monet": {
+      "en": "Giverny — In Monet's Footsteps",
+      "ar": "جيفرني — على خطى مونيه"
+    },
+    "Google Play": {
+      "en": "Google Play",
+      "ar": "Google Play"
+    },
+    "Grâce à notre réseau, nous identifions et réservons les espaces les plus adaptés à votre événement et à votre image.": {
+      "en": "Thanks to our network, we identify and reserve the venues best suited to your event and your image.",
+      "ar": "بفضل شبكة علاقاتنا، نحدد ونحجز المواقع الأنسب لفعاليتكم وصورتكم المؤسسية."
+    },
+    "guard | Sécurité Discrète, Agissez Maintenant — HYDD": {
+      "en": "Close Protection | Discreet Security, Act Now — HYDD",
+      "ar": "الحماية الشخصية | أمن سري، بادر الآن — HYDD"
+    },
+    "Henry Jacques": {
+      "en": "Henry Jacques",
+      "ar": "Henry Jacques"
+    },
+    "html": {
+      "en": "html",
+      "ar": "html"
+    },
+    "HYDD": {
+      "en": "HYDD",
+      "ar": "HYDD"
+    },
+    "HYDD ": {
+      "en": "HYDD",
+      "ar": "HYDD"
+    },
+    "HYDD a été le partenaire officiel de transport d'OMEGA lors des Jeux Olympiques de Paris 2024.": {
+      "en": "HYDD was OMEGA's official transport partner during the Paris 2024 Olympic Games.",
+      "ar": "كانت HYDD شريك النقل الرسمي لعلامة OMEGA خلال الألعاب الأولمبية باريس ٢٠٢٤."
+    },
+    "HYDD est couvert par une assurance responsabilité civile professionnelle pour l'ensemble de ses activités. Les coordonnées de l'assureur sont disponibles sur simple demande.": {
+      "en": "HYDD holds professional civil liability insurance covering all its activities. Details of the insurer are available upon request.",
+      "ar": "تتمتع HYDD بتأمين مسؤولية مدنية مهنية يغطي جميع أنشطتها. ويمكن الحصول على تفاصيل شركة التأمين عند الطلب."
+    },
+    "HYDD est la réponse à ce manque. Une entreprise fondée non pas sur un business plan, mais sur une expérience vécue et une vision claire de ce que le service d'exception doit être.": {
+      "en": "HYDD is the answer to that gap: a company founded not on a business plan, but on lived experience and a clear vision of what exceptional service should be.",
+      "ar": "HYDD هي الإجابة عن هذا النقص: شركة تأسست انطلاقاً من تجربة واقعية ورؤية واضحة لمعنى الخدمة الاستثنائية، وليس مجرد خطة أعمال."
+    },
+    "HYDD est né de cette conviction — qu'il était possible de faire mieux, différemment.": {
+      "en": "HYDD was born from that conviction — that things could be done better, differently.",
+      "ar": "وُلدت HYDD من قناعة بإمكانية تقديم خدمة أفضل وبطريقة مختلفة."
+    },
+    "HYDD est né des deux.": {
+      "en": "HYDD was born from both.",
+      "ar": "وُلدت HYDD من كليهما."
+    },
+    "HYDD ne pourra être tenu responsable de l'inexécution totale ou partielle de ses obligations en cas de survenance d'un événement de force majeure tel que défini par la jurisprudence française, notamment : catastrophes naturelles, grèves, émeutes, pandémies, décisions gouvernementales, accidents ou toute autre circonstance échappant au contrôle raisonnable de HYDD.": {
+      "en": "HYDD cannot be held liable for total or partial non-performance of its obligations in the event of force majeure as defined by French case law, including natural disasters, strikes, riots, pandemics, government decisions, accidents or any other circumstances beyond HYDD's reasonable control.",
+      "ar": "لا تتحمل HYDD المسؤولية عن عدم تنفيذ التزاماتها كلياً أو جزئياً في حال وقوع قوة قاهرة وفقاً لاجتهادات القضاء الفرنسي، بما في ذلك الكوارث الطبيعية والإضرابات وأعمال الشغب والأوبئة والقرارات الحكومية والحوادث أو أي ظروف أخرى خارجة عن سيطرة HYDD المعقولة."
+    },
+    "HYDD ne veut pas être la meilleure application de chauffeur. HYDD veut redéfinir ce que signifie voyager en VIP à l'ère du digital — en alliant la chaleur d'un service humain irremplaçable à la puissance d'une technologie pensée pour l'excellence.": {
+      "en": "HYDD does not aspire to be the best chauffeur app. HYDD aims to redefine VIP travel in the digital age by combining the warmth of irreplaceable human service with technology designed for excellence.",
+      "ar": "لا تسعى HYDD لأن تكون أفضل تطبيق للسائقين فحسب، بل لإعادة تعريف السفر الفاخر في العصر الرقمي عبر الجمع بين دفء الخدمة الإنسانية التي لا بديل لها وقوة التكنولوجيا المصممة للتميز."
+    },
+    "HYDD offre des services de protection rapprochée et sécurité privée pour personnalités, dirigeants et délégations, en France et à l'international. Discrétion et efficacité assurées.": {
+      "en": "HYDD provides close protection and private security services for public figures, executives and delegations in France and internationally, with assured discretion and efficiency.",
+      "ar": "تقدم HYDD خدمات الحماية الشخصية والأمن الخاص للشخصيات العامة والمديرين والوفود في فرنسا والعالم، مع الالتزام بالسرية والكفاءة."
+    },
+    "HYDD offre des services de transfert aéroport et gare dans un confort total, avec suivi en temps réel et chauffeur professionnel pour une expérience fiable et flexible.": {
+      "en": "HYDD offers comfortable airport and railway station transfers with real-time monitoring and professional chauffeurs for a reliable, flexible experience.",
+      "ar": "توفر HYDD تنقلات مريحة من المطارات ومحطات القطارات وإليها، مع متابعة مباشرة وسائقين محترفين لضمان تجربة موثوقة ومرنة."
+    },
+    "HYDD offre des services premium tels que chauffeur dédié, transferts, accueil VIP, organisation d'événements, escapades sur mesure et protection rapprochée à Paris et dans le monde.": {
+      "en": "HYDD offers premium services including dedicated chauffeurs, transfers, VIP airport welcome, event planning, bespoke excursions and close protection in Paris and worldwide.",
+      "ar": "تقدم HYDD خدمات راقية تشمل السائق الخاص والتنقلات والاستقبال الخاص وتنظيم الفعاليات والرحلات المصممة خصيصاً والحماية الشخصية في باريس وحول العالم."
+    },
+    "HYDD offre un service de transport VIP personnalisé, disponible 24/7, avec réseau international et coordination médicale pour répondre aux besoins exigeants de sa clientèle.": {
+      "en": "HYDD provides bespoke VIP transport, available 24/7, supported by an international network and medical coordination to meet the exacting needs of its clientele.",
+      "ar": "توفر HYDD خدمات نقل مخصصة لكبار الشخصيات على مدار الساعة، مدعومة بشبكة دولية وتنسيق طبي لتلبية الاحتياجات الدقيقة لعملائها."
+    },
+    "HYDD propose les prestations suivantes :": {
+      "en": "HYDD offers the following services:",
+      "ar": "تقدم HYDD الخدمات التالية:"
+    },
+    "HYDD propose sept services pensés pour une clientèle exigeante : chauffeur dédié, transfert aéroport & gare, accueil VIP avec hôtesse, organisation d'événements, escapades privées sur mesure, protection rapprochée et conciergerie de luxe. ": {
+      "en": "HYDD offers seven services for discerning clients: dedicated chauffeur, airport and railway transfers, VIP welcome with a hostess, event planning, bespoke private excursions, close protection and luxury concierge.",
+      "ar": "تقدم HYDD سبع خدمات للعملاء الباحثين عن التميز: سائق خاص، وتنقلات المطارات والقطارات، واستقبال كبار الشخصيات بمضيفة، وتنظيم الفعاليات، والرحلات الخاصة حسب الطلب، والحماية الشخصية، وخدمات الكونسيرج الفاخرة."
+    },
+    "HYDD propose un service de protection rapprochée lors de vos déplacements, en France et à l'international. Nos agents sont issus des forces spéciales, des services de renseignement d'État et de la sécurité privée de haut niveau. Discrets, expérimentés, multilingues — ils s'intègrent naturellement à votre environnement sans jamais le perturber.": {
+      "en": "HYDD provides close protection during your travels in France and abroad. Our agents come from special forces, state intelligence services and high-level private security. Discreet, experienced and multilingual, they blend naturally into your environment without disruption.",
+      "ar": "توفر HYDD الحماية الشخصية أثناء تنقلاتكم في فرنسا والخارج. وينحدر عناصرنا من القوات الخاصة وأجهزة الاستخبارات الحكومية وقطاعات الأمن الخاص رفيعة المستوى. ويتميزون بالسرية والخبرة وتعدد اللغات، ويندمجون في محيطكم دون إزعاج."
+    },
+    "HYDD s'engage à :": {
+      "en": "HYDD undertakes to:",
+      "ar": "تلتزم HYDD بما يلي:"
+    },
+    "HYDD s'engage à respecter la plus stricte confidentialité concernant l'ensemble des informations relatives au Client — identité, déplacements, demandes, informations personnelles ou professionnelles — et ce, pendant et après la réalisation de la prestation.": {
+      "en": "HYDD undertakes to maintain the strictest confidentiality regarding all Customer information — identity, journeys, requests, personal or business information — during and after the provision of services.",
+      "ar": "تلتزم HYDD بالحفاظ على أقصى درجات السرية فيما يتعلق بجميع معلومات العميل — من الهوية والتنقلات والطلبات إلى البيانات الشخصية والمهنية — أثناء تقديم الخدمة وبعدها."
+    },
+    "HYDD s'engage à traiter toute réclamation dans un délai maximum de 30 jours.": {
+      "en": "HYDD undertakes to handle any complaint within a maximum of 30 days.",
+      "ar": "تلتزم HYDD بمعالجة أي شكوى خلال مدة لا تتجاوز ٣٠ يوماً."
+    },
+    "HYDD se réserve le droit de refuser toute commande sans avoir à en justifier la raison, notamment en cas de litige antérieur avec le Client ou d'indisponibilité.": {
+      "en": "HYDD reserves the right to refuse any booking without stating reasons, particularly in the event of a previous dispute with the Customer or unavailability.",
+      "ar": "تحتفظ HYDD بالحق في رفض أي طلب دون إبداء الأسباب، ولا سيما عند وجود نزاع سابق مع العميل أو عدم توافر الخدمة."
+    },
+    "HYDD | Réservez votre voyage de luxe aujourd'hui": {
+      "en": "HYDD | Book Your Luxury Journey Today",
+      "ar": "HYDD | احجز رحلتك الفاخرة اليوم"
+    },
+    "HYDD, c'est la certitude que chaque détail a été pensé avant même que vous n'y pensiez.": {
+      "en": "HYDD means knowing that every detail has been considered before it even crosses your mind.",
+      "ar": "مع HYDD، يمكنكم الاطمئنان إلى أننا فكرنا في كل تفصيل قبل أن يخطر ببالكم."
+    },
+    "HYDD. Tous droits réservés.": {
+      "en": "HYDD. All rights reserved.",
+      "ar": "HYDD. جميع الحقوق محفوظة."
+    },
+    "hydd.fr": {
+      "en": "hydd.fr",
+      "ar": "hydd.fr"
+    },
+    "Hébergement d'exception": {
+      "en": "Exceptional accommodation",
+      "ar": "إقامة استثنائية"
+    },
+    "Il a traversé des capitales à l'aube, attendu devant des palais, transporté des hommes et des femmes au cœur de moments qui ont façonné le monde. Dans un silence total. Avec une discrétion absolue.": {
+      "en": "He crossed capitals at dawn, waited outside palaces and transported men and women at the heart of moments that shaped the world. In complete silence. With absolute discretion.",
+      "ar": "عبر عواصم عند الفجر وانتظر أمام القصور ونقل رجالاً ونساءً كانوا في قلب لحظات شكّلت العالم. بصمت كامل وسرية مطلقة."
+    },
+    "Il est des parfums que l'on ne croise pas. On les rencontre, par hasard, dans des espaces rares — et ils s’impriment à jamais dans nos mémoires.": {
+      "en": "Some fragrances are not simply encountered. You discover them by chance in rare places, and they remain forever etched in your memory.",
+      "ar": "بعض العطور لا تصادفها مصادفة عابرة، بل تلتقيها في أماكن نادرة فتبقى محفورة في ذاكرتك إلى الأبد."
+    },
+    "Indépendante, la Maison possède son propre laboratoire, son atelier, et plus récemment sa propre culture de rose — garantissant une liberté de création totale et un niveau d’excellence rare, porté par des exigences telles que la Maison est souvent comparée à la Haute Couture.": {
+      "en": "Independent, the Maison has its own laboratory, workshop and, more recently, rose cultivation — ensuring complete creative freedom and a rare level of excellence, with standards so exacting that it is often compared to haute couture.",
+      "ar": "تتمتع الدار باستقلاليتها، ولديها مختبرها وورشتها الخاصتان، ومؤخراً مزارع للورود، ما يمنحها حرية إبداع كاملة ومستوى نادراً من التميز. وبفضل معاييرها الصارمة، كثيراً ما تُقارن بالأزياء الراقية."
+    },
+    "info@hydd.tech": {
+      "en": "info@hydd.tech",
+      "ar": "info@hydd.tech"
+    },
+    "Intéressé par une collaboration ?": {
+      "en": "Interested in collaborating?",
+      "ar": "هل ترغبون في التعاون معنا؟"
+    },
+    "Intéressé par une collaboration ? ": {
+      "en": "Interested in collaborating?",
+      "ar": "هل ترغبون في التعاون معنا؟"
+    },
+    "Invitations, confirmations, accueil sur place — chaque détail est orchestré avec soin.": {
+      "en": "Invitations, confirmations, on-site welcome — every detail is carefully orchestrated.",
+      "ar": "الدعوات والتأكيدات والاستقبال في الموقع — كل تفصيل يُنظّم بعناية."
+    },
+    "Jets privés, palaces, tables d'exception, coordination médicale — nous gérons tout, à toute heure.": {
+      "en": "Private jets, palaces, exceptional restaurants and medical coordination — we handle everything, at any time.",
+      "ar": "الطائرات الخاصة والفنادق الفاخرة والمطاعم الاستثنائية والتنسيق الطبي — نتولى كل شيء وفي أي وقت."
+    },
+    "Jeux Olympiques Paris 2024": {
+      "en": "Paris 2024 Olympic Games",
+      "ar": "الألعاب الأولمبية باريس ٢٠٢٤"
+    },
+    "L'anticipation avant tout": {
+      "en": "Anticipation above all",
+      "ar": "الاستباق أولاً"
+    },
+    "L'application HYDD arrive très prochainement sur ": {
+      "en": "The HYDD app is coming very soon to",
+      "ar": "سيصل تطبيق HYDD قريباً جداً إلى"
+    },
+    "L'application HYDD sera lancée en avant-première pour un cercle restreint de clients privilégiés.": {
+      "en": "The HYDD app will launch first for a select circle of privileged clients.",
+      "ar": "سيُطلق تطبيق HYDD أولاً لمجموعة محدودة من العملاء المميزين."
+    },
+    "L'application HYDD — Bientôt disponible": {
+      "en": "The HYDD App — Coming Soon",
+      "ar": "تطبيق HYDD — قريباً"
+    },
+    "L'architecte de l'invisible": {
+      "en": "The architect of the unseen",
+      "ar": "مهندس ما وراء الكواليس"
+    },
+    "L'associé — Akim": {
+      "en": "The Partner — Akim",
+      "ar": "الشريك — أكيم"
+    },
+    "L'aéroport ne devrait jamais être une source de stress. Grâce à notre service d'accueil VIP, votre passage — à l'arrivée comme au départ — est géré de bout en bout par une hôtesse dédiée, pour que vous n'ayez qu'une seule chose à faire : avancer.": {
+      "en": "The airport should never be a source of stress. With our VIP welcome service, your entire passage — arrival or departure — is handled by a dedicated hostess, leaving you with only one thing to do: move forward.",
+      "ar": "لا ينبغي للمطار أن يكون مصدراً للتوتر. فبفضل خدمة الاستقبال الخاصة لدينا، تتولى مضيفة مخصصة جميع تفاصيل عبوركم عند الوصول أو المغادرة، ليبقى عليكم أمر واحد فقط: مواصلة رحلتكم."
+    },
+    "L'excellence du transport VIP, partout dans le monde": {
+      "en": "Excellence in VIP transport, worldwide",
+      "ar": "التميّز في خدمات النقل الفاخر حول العالم"
+    },
+    "L'expérience magique sans contrainte": {
+      "en": "A magical experience without constraints",
+      "ar": "تجربة ساحرة بلا قيود"
+    },
+    "L'humain au centre": {
+      "en": "People at the heart of everything",
+      "ar": "الإنسان في صميم كل شيء"
+    },
+    "L'un vient du terrain, l'autre des coulisses. L'un maîtrise l'humain, l'autre les opérations. Mais tous deux partagent la même conviction profonde : le service d'exception n'est pas réservé à quelques-uns — il se construit, se pense et se vit à chaque détail.": {
+      "en": "One comes from the field; the other from behind the scenes. One masters human relations; the other masters operations. Both share the same conviction: exceptional service is not reserved for a few — it is built, considered and lived in every detail.",
+      "ar": "أحدهما قادم من الميدان والآخر من خلف الكواليس. الأول بارع في التعامل مع الناس والثاني في إدارة العمليات. ويشتركان في قناعة عميقة: الخدمة الاستثنائية لا تُحصر في قلة، بل تُبنى وتُصمّم وتنعكس في كل تفصيل."
+    },
+    "la Classe S Guard offre le niveau de protection VR9 — le plus élevé de la norme ERV 2010. Blindage intégral, vitres résistantes aux explosions, système de surpression en cas d'attaque chimique. En apparence, une berline comme les autres. En réalité, un bouclier. Pour les chefs d'État, les diplomates et les personnalités nécessitant une protection maximale": {
+      "en": "The S-Class Guard offers VR9 protection — the highest level under the ERV 2010 standard. Full armour, blast-resistant windows and an overpressure system in the event of a chemical attack. It looks like any other saloon; in reality, it is a shield. For heads of state, diplomats and those requiring maximum protection.",
+      "ar": "توفر الفئة S غارد مستوى الحماية VR9 — الأعلى وفق معيار ERV 2010. تدريع شامل وزجاج مقاوم للانفجارات ونظام ضغط إيجابي عند التعرض لهجوم كيميائي. تبدو كأي سيارة سيدان أخرى، لكنها في الواقع درع. وهي مخصصة لرؤساء الدول والدبلوماسيين والشخصيات التي تحتاج إلى أقصى درجات الحماية."
+    },
+    "La commande n'est considérée comme définitive qu'après réception par le Client d'une confirmation écrite de HYDD (email ou message) précisant la nature de la prestation, la date, le lieu, le prix et les conditions particulières convenues.": {
+      "en": "A booking is considered final only after the Customer receives written confirmation from HYDD (email or message) stating the nature of the service, date, location, price and any agreed special conditions.",
+      "ar": "لا يُعد الحجز نهائياً إلا بعد استلام العميل تأكيداً خطياً من HYDD (بريد إلكتروني أو رسالة) يوضح نوع الخدمة وتاريخها ومكانها وسعرها وأي شروط خاصة متفق عليها."
+    },
+    "La discrétion comme valeur fondamentale": {
+      "en": "Discretion as a core value",
+      "ar": "السرية قيمة أساسية"
+    },
+    "La Flying Spur allie performance et raffinement avec une élégance qui n'appartient qu'à Bentley. ": {
+      "en": "The Flying Spur combines performance and refinement with elegance unique to Bentley.",
+      "ar": "تجمع فلاينغ سبير بين الأداء والرقي بأناقة تنفرد بها بنتلي."
+    },
+    "La France comme vous ne l'avez jamais vécue": {
+      "en": "France as you've never experienced it",
+      "ar": "فرنسا كما لم تعيشوها من قبل"
+    },
+    "La maison et les jardins de Claude Monet, berceau des Nymphéas et de l'impressionnisme. Une escapade intime et poétique, idéale au printemps, dans un cadre d'une beauté rare. Visite privée organisée selon la saison pour profiter des jardins dans leurs plus beaux atours.": {
+      "en": "Claude Monet's house and gardens, birthplace of the Water Lilies and Impressionism. An intimate, poetic escape ideal in spring amid extraordinary beauty. A private visit arranged according to the season to enjoy the gardens at their finest.",
+      "ar": "منزل كلود مونيه وحدائقه، مهد لوحات زنابق الماء والمدرسة الانطباعية. رحلة شاعرية حميمة مثالية في الربيع وسط جمال استثنائي. ننظم زيارة خاصة بحسب الموسم للاستمتاع بالحدائق في أبهى حُللها."
+    },
+    "La Maybach est la berline de représentation par excellence — empattement allongé, sièges arrière inclinables, tablettes individuelles, ambiance lounge. Un espace privé en mouvement, pensé pour les dirigeants et les personnalités qui font du voyage un moment de détente absolu.": {
+      "en": "The Maybach is the ultimate executive saloon — extended wheelbase, reclining rear seats, individual tables and a lounge atmosphere. A private space in motion, created for leaders and personalities who seek complete relaxation while travelling.",
+      "ar": "تُعد مايباخ مثالاً لسيارة التمثيل الفاخرة — قاعدة عجلات طويلة ومقاعد خلفية قابلة للإمالة وطاولات فردية وأجواء استراحة راقية. مساحة خاصة متنقلة صُممت للقادة والشخصيات التي ترغب في الاسترخاء التام أثناء السفر."
+    },
+    "La Phantom est l'automobile la plus luxueuse au monde — galerie d'art roulante, silence de cathédrale, artisanat à la main. Chaque déplacement à bord de la Phantom est une déclaration. Réservée aux occasions qui méritent l'extraordinaire": {
+      "en": "The Phantom is the world's most luxurious motor car — a moving art gallery, cathedral-like silence and hand-crafted refinement. Every journey in the Phantom is a statement, reserved for occasions worthy of the extraordinary.",
+      "ar": "فانتوم من أفخم السيارات في العالم — معرض فني متنقل وهدوء استثنائي وحرفية يدوية رفيعة. كل رحلة فيها تعبير عن التميز، للمناسبات التي تستحق ما هو استثنائي."
+    },
+    "La responsabilité de HYDD est limitée à l'exécution des prestations décrites dans la confirmation de commande. HYDD ne saurait être tenu responsable des dommages indirects, pertes de revenus ou préjudices consécutifs à un retard ou à une inexécution résultant d'un cas de force majeure ou d'un fait imputable au Client.": {
+      "en": "HYDD's liability is limited to performing the services described in the booking confirmation. HYDD cannot be held liable for indirect damages, loss of revenue or losses arising from delay or non-performance due to force majeure or circumstances attributable to the Customer.",
+      "ar": "تقتصر مسؤولية HYDD على تنفيذ الخدمات الواردة في تأكيد الطلب. ولا تتحمل HYDD المسؤولية عن الأضرار غير المباشرة أو خسائر الإيرادات أو الأضرار الناتجة عن التأخير أو عدم التنفيذ بسبب القوة القاهرة أو فعل يُعزى إلى العميل."
+    },
+    "LA SOCIÉTÉ": {
+      "en": "THE COMPANY",
+      "ar": "الشركة"
+    },
+    "Laissez-nous vos coordonnées pour être informé en priorité du lancement et bénéficier d'un accès exclusif dès les premiers jours.": {
+      "en": "Leave us your contact details to receive priority news of the launch and gain exclusive access from the very first days.",
+      "ar": "اتركوا لنا بيانات التواصل لتصلكم أخبار الإطلاق أولاً وللاستفادة من وصول حصري منذ الأيام الأولى."
+    },
+    "Lancer l'arrière-plan": {
+      "en": "Play background",
+      "ar": "تشغيل الخلفية"
+    },
+    "Le Client s'engage à :": {
+      "en": "The Customer undertakes to:",
+      "ar": "يلتزم العميل بما يلي:"
+    },
+    "Le détail de chaque prestation est décrit sur le site ": {
+      "en": "Details of each service are described on the website",
+      "ar": "ترد تفاصيل كل خدمة على الموقع الإلكتروني"
+    },
+    "Le fondateur ": {
+      "en": "The founder",
+      "ar": "المؤسس"
+    },
+    "Le futur — HYDD s'invite dans votre poche": {
+      "en": "The future — HYDD in your pocket",
+      "ar": "المستقبل — HYDD في جيبك"
+    },
+    "Le monde du transport de luxe est en train de changer. Nous avons décidé de le changer nous-mêmes.": {
+      "en": "The world of luxury transport is changing. We decided to change it ourselves.",
+      "ar": "عالم النقل الفاخر يتغير، وقد قررنا أن نقود هذا التغيير بأنفسنا."
+    },
+    "Le Moyen-Orient n’est pas un marché comme les autres. C’est un univers où la discrétion prime sur la démonstration, où la confiance se construit dans le détail, et où chaque geste, chaque mot, chaque silence a un sens.": {
+      "en": "The Middle East is unlike any other market. It is a world where discretion matters more than display, trust is built through detail, and every gesture, word and silence carries meaning.",
+      "ar": "الشرق الأوسط سوق لا يشبه غيره. عالم تتقدم فيه السرية على المظاهر، وتُبنى الثقة عبر الاهتمام بالتفاصيل، وتحمل فيه كل لفتة وكلمة ولحظة صمت معنى خاصاً."
+    },
+    "Le paiement des prestations s'effectue selon les modalités convenues entre HYDD et le Client, précisées dans le devis ou la confirmation de commande.": {
+      "en": "Payment for services is made according to the terms agreed between HYDD and the Customer, as specified in the quotation or booking confirmation.",
+      "ar": "يتم دفع مقابل الخدمات وفقاً للشروط المتفق عليها بين HYDD والعميل، والمحددة في عرض السعر أو تأكيد الطلب."
+    },
+    "Le pont vers le Moyen-Orient": {
+      "en": "A bridge to the Middle East",
+      "ar": "جسر إلى الشرق الأوسط"
+    },
+    "Les avantages de notre service de mise à disposition": {
+      "en": "Benefits of our chauffeur-at-your-disposal service",
+      "ar": "مزايا خدمة السائق المتفرغ لدينا"
+    },
+    "Les besoins d'une clientèle VIP ne s'arrêtent pas à la fermeture d'un bureau. Notre équipe est joignable à toute heure, tous les jours de l'année — pour une réservation de dernière minute, une urgence ou simplement une question. Nous sommes là.": {
+      "en": "The needs of VIP clients do not end when offices close. Our team is reachable at any hour, every day of the year — for a last-minute booking, an emergency or simply a question. We're here.",
+      "ar": "لا تتوقف احتياجات كبار الشخصيات عند إغلاق المكاتب. يمكن التواصل مع فريقنا في أي وقت وكل يوم من أيام السنة — لحجز في اللحظة الأخيرة أو لحالة طارئة أو حتى لمجرد استفسار. نحن هنا لخدمتكم."
+    },
+    "Les données personnelles collectées dans le cadre de la relation commerciale sont traitées conformément à la Politique de Confidentialité de HYDD, disponible sur le site ": {
+      "en": "Personal data collected in the course of the business relationship is processed in accordance with HYDD's Privacy Policy, available on the website",
+      "ar": "تُعالج البيانات الشخصية التي تُجمع في إطار العلاقة التجارية وفقاً لسياسة الخصوصية الخاصة بـ HYDD والمتاحة على الموقع الإلكتروني"
+    },
+    "Les modes de paiement acceptés sont les suivants :": {
+      "en": "The accepted payment methods are:",
+      "ar": "وسائل الدفع المقبولة هي:"
+    },
+    "Les planches de Deauville, ses villas Belle Époque et son atmosphère de villégiature élégante. Et à quelques kilomètres, le port authentique de Honfleur et ses maisons à colombages.": {
+      "en": "The boardwalks of Deauville, its Belle Époque villas and refined seaside atmosphere. Just a few kilometres away, discover Honfleur's authentic harbour and half-timbered houses.",
+      "ar": "ممشى دوفيل وفيلاتها من عصر «بيل إيبوك» وأجواؤها الساحلية الراقية، وعلى بُعد كيلومترات قليلة ميناء أونفلور الأصيل ومنازله ذات الهياكل الخشبية."
+    },
+    "Les présentes CGV sont soumises au droit français. En cas de litige relatif à leur interprétation ou à leur exécution, les parties s'engagent à rechercher une solution amiable avant tout recours judiciaire.": {
+      "en": "These Terms and Conditions are governed by French law. In the event of a dispute concerning their interpretation or performance, the parties agree to seek an amicable solution before initiating legal proceedings.",
+      "ar": "تخضع هذه الشروط والأحكام للقانون الفرنسي. وفي حال نشوء نزاع بشأن تفسيرها أو تنفيذها، يتفق الطرفان على السعي إلى تسوية ودية قبل اللجوء إلى القضاء."
+    },
+    "Les présentes Conditions Générales de Vente (ci-après \"CGV\") régissent l'ensemble des prestations de services proposées par HYDD SAS, Société par Actions Simplifiée au capital social 1500 euros, immatriculée au Registre du Commerce et des Sociétés sous le numéro SIRET 995 033 792 00012, dont le siège social est situé au 176 avenue Charles de Gaulle, 92200 Neuilly-sur-Seine (ci-après \"HYDD\").": {
+      "en": "These General Terms and Conditions of Sale (the \"Terms\") govern all services offered by HYDD SAS, a simplified joint-stock company with share capital of €1,500, registered with the Trade and Companies Register under SIRET number 995 033 792 00012, whose registered office is at 176 avenue Charles de Gaulle, 92200 Neuilly-sur-Seine (\"HYDD\").",
+      "ar": "تحكم هذه الشروط والأحكام العامة للبيع (ويُشار إليها فيما يلي باسم «الشروط») جميع الخدمات التي تقدمها شركة HYDD SAS، وهي شركة مساهمة مبسطة برأس مال قدره ١٬٥٠٠ يورو، ومسجلة في السجل التجاري والشركات برقم SIRET: 995 033 792 00012، ويقع مقرها المسجل في 176 avenue Charles de Gaulle, 92200 Neuilly-sur-Seine (ويُشار إليها فيما يلي باسم «HYDD»)."
+    },
+    "Les tarifs des prestations sont communiqués au Client sur devis, en fonction de la nature de la prestation, de sa durée, de la destination et des exigences spécifiques.": {
+      "en": "Service prices are communicated to the Customer by quotation, depending on the nature and duration of the service, the destination and any specific requirements.",
+      "ar": "تُبلّغ أسعار الخدمات إلى العميل بموجب عرض سعر، وفقاً لطبيعة الخدمة ومدتها والوجهة والمتطلبات الخاصة."
+    },
+    "Les types de déplacements que nous couvrons": {
+      "en": "Types of journeys we cover",
+      "ar": "أنواع التنقلات التي نوفرها"
+    },
+    "Logistique & Transport": {
+      "en": "Logistics & Transport",
+      "ar": "اللوجستيات والنقل"
+    },
+    "Là où Yasir incarne l’exigence du service et Akim la maîtrise des flux, Eskandar apporte à HYDD une troisième dimension essentielle : la compréhension fine d’une clientèle internationale aux attentes singulières. Avec lui, HYDD consolide sa capacité à parler le langage — et les codes — d’un marché stratégique.": {
+      "en": "Where Yasir represents excellence in service and Akim operational mastery, Eskandar brings a vital third dimension to HYDD: a nuanced understanding of international clients with distinctive expectations. With him, HYDD strengthens its ability to speak the language — and understand the codes — of a strategic market.",
+      "ar": "بينما يجسّد ياسر التميز في الخدمة وأكيم براعة إدارة العمليات، يضيف إسكندر بُعداً ثالثاً أساسياً إلى HYDD: الفهم الدقيق لعملاء دوليين ذوي توقعات خاصة. وبوجوده، تعزز HYDD قدرتها على مخاطبة سوق استراتيجي بلغته وفهم تقاليده."
+    },
+    "Là où Yasir maîtrise l'humain et le terrain, Akim maîtrise les systèmes et les flux. Ensemble, ils forment un duo complémentaire, à la croisée du service d'exception et de la logistique d'élite.": {
+      "en": "Where Yasir masters people and on-the-ground service, Akim masters systems and operations. Together they form a complementary duo at the intersection of exceptional service and elite logistics.",
+      "ar": "حيث يتقن ياسر التعامل مع الأفراد والعمل الميداني، يتقن أكيم الأنظمة وتدفق العمليات. ويشكّلان معاً ثنائياً متكاملاً يجمع بين الخدمة الاستثنائية والخدمات اللوجستية رفيعة المستوى."
+    },
+    "L’ambassadeur — Eskandar": {
+      "en": "The Ambassador — Eskandar",
+      "ar": "السفير — إسكندر"
+    },
+    "L’art de la relation sur-mesure": {
+      "en": "The art of bespoke relationships",
+      "ar": "فن العلاقات المصممة خصيصاً"
+    },
+    "Mentions légales    -      Politique de confidentialité CGV": {
+      "en": "Legal notices — Privacy policy — Terms & Conditions",
+      "ar": "الإشعارات القانونية — سياسة الخصوصية — الشروط والأحكام"
+    },
+    "Mercedes Classe E": {
+      "en": "Mercedes E-Class",
+      "ar": "مرسيدس الفئة E"
+    },
+    "Mercedes Classe S": {
+      "en": "Mercedes S-Class",
+      "ar": "مرسيدس الفئة S"
+    },
+    "Mercedes Classe S Guard": {
+      "en": "Mercedes S-Class Guard",
+      "ar": "مرسيدس الفئة S غارد"
+    },
+    "Mercedes Classe S Maybach": {
+      "en": "Mercedes S-Class Maybach",
+      "ar": "مرسيدس الفئة S مايباخ"
+    },
+    "Mercedes Classe V": {
+      "en": "Mercedes V-Class",
+      "ar": "مرسيدس الفئة V"
+    },
+    "Mercedes Sprinter VIP": {
+      "en": "Mercedes Sprinter VIP",
+      "ar": "مرسيدس سبرينتر VIP"
+    },
+    "Mercedes Sprinter VIP ": {
+      "en": "Mercedes Sprinter VIP",
+      "ar": "مرسيدس سبرينتر VIP"
+    },
+    "Mettre l'arrière-plan en pause": {
+      "en": "Pause background",
+      "ar": "إيقاف الخلفية مؤقتاً"
+    },
+    "Mettre à disposition des chauffeurs professionnels, titulaires des licences et certifications requises": {
+      "en": "Provide professional chauffeurs holding the required licences and certifications",
+      "ar": "توفير سائقين محترفين يحملون التراخيص والشهادات المطلوبة"
+    },
+    "Mise à disposition d'un chauffeur dédié avec véhicule de prestige": {
+      "en": "A dedicated chauffeur with a prestige vehicle at your disposal",
+      "ar": "سائق خاص متفرغ مع مركبة فاخرة تحت تصرفكم"
+    },
+    "Mise à disposition de véhicules premium et de chauffeurs professionnels pour l'ensemble de vos invités.": {
+      "en": "Premium vehicles and professional chauffeurs for all your guests.",
+      "ar": "مركبات راقية وسائقون محترفون لجميع ضيوفكم."
+    },
+    "Mise à disposition | Réservez votre chauffeur maintenant — HYDD": {
+      "en": "Dedicated Chauffeur | Book Your Chauffeur Now — HYDD",
+      "ar": "سائق خاص | احجز سائقك الآن — HYDD"
+    },
+    "Modification de l'itinéraire en cours de prestation": {
+      "en": "Change of itinerary during the service",
+      "ar": "تعديل خط السير أثناء تقديم الخدمة"
+    },
+    "Navettes & transferts": {
+      "en": "Shuttles & transfers",
+      "ar": "خدمات النقل والتنقلات"
+    },
+    "No-show (absence du Client sans annulation préalable) : facturation de 100% du montant total": {
+      "en": "No-show (Customer absent without prior cancellation): 100% of the total amount will be charged",
+      "ar": "عدم الحضور (غياب العميل دون إلغاء مسبق): تُحصّل نسبة ١٠٠٪ من المبلغ الإجمالي"
+    },
+    "Nos agents — Un niveau d'exigence absolu": {
+      "en": "Our agents — An uncompromising standard",
+      "ar": "عناصرنا — معايير لا تقبل المساومة"
+    },
+    "Nos chauffeurs sont des professionnels expérimentés, dotés d'une connaissance approfondie des itinéraires et des destinations que vous fréquentez.": {
+      "en": "Our chauffeurs are experienced professionals with in-depth knowledge of the routes and destinations you frequent.",
+      "ar": "سائقونا محترفون ذوو خبرة واسعة ومعرفة دقيقة بالطرق والوجهات التي تترددون عليها."
+    },
+    "Nos prestations": {
+      "en": "Our services",
+      "ar": "خدماتنا"
+    },
+    "Nos Services": {
+      "en": "Our Services",
+      "ar": "خدماتنا"
+    },
+    "NOS SERVICES | Réservez votre service de luxe dès maintenant — HYDD": {
+      "en": "OUR SERVICES | Book Your Luxury Service Now — HYDD",
+      "ar": "خدماتنا | احجز خدمتك الفاخرة الآن — HYDD"
+    },
+    "Notre ambition": {
+      "en": "Our ambition",
+      "ar": "طموحنا"
+    },
+    "Notre chauffeur sera à votre disposition pour vous accompagner selon votre programme.": {
+      "en": "Our chauffeur will be at your disposal, accompanying you according to your schedule.",
+      "ar": "سيكون سائقنا تحت تصرفكم لمرافقتكم وفق برنامجكم."
+    },
+    "Notre engagement": {
+      "en": "Our commitment",
+      "ar": "التزامنا"
+    },
+    "NOTRE EQUIPE": {
+      "en": "OUR TEAM",
+      "ar": "فريقنا"
+    },
+    "Notre Flotte de Véhicules": {
+      "en": "Our Vehicle Fleet",
+      "ar": "أسطول سياراتنا"
+    },
+    "NOTRE HISTOIRE": {
+      "en": "OUR STORY",
+      "ar": "قصتنا"
+    },
+    "Notre philosophie": {
+      "en": "Our philosophy",
+      "ar": "فلسفتنا"
+    },
+    "NOTRE PHILOSOPHIE": {
+      "en": "OUR PHILOSOPHY",
+      "ar": "فلسفتنا"
+    },
+    "Notre promesse": {
+      "en": "Our promise",
+      "ar": "وعدنا"
+    },
+    "Notre équipe": {
+      "en": "Our team",
+      "ar": "فريقنا"
+    },
+    "Notre équipe anticipe votre départ en fonction de votre heure de vol, du terminal, et des délais d'accès spécifiques à l'aéroport. Votre hôtesse est positionnée à votre arrivée en véhicule, prête à vous prendre en charge dès que vous descendez.": {
+      "en": "Our team plans your departure around your flight time, terminal and the airport's specific access times. Your hostess is waiting as you arrive by car, ready to assist the moment you step out.",
+      "ar": "يخطط فريقنا لمغادرتكم وفق موعد رحلتكم ومبنى المطار ومدة الوصول الخاصة به. وتكون المضيفة في انتظار وصولكم بالسيارة، مستعدة لاستقبالكم فور نزولكم."
+    },
+    "Notre équipe est composée de professionnels expérimentés et passionnés qui partagent notre vision et nos valeurs. Nos chauffeurs sont sélectionnés pour leur expertise, leur courtoisie et leur capacité à anticiper les besoins de nos clients. Nous sommes fiers de notre équipe et de la qualité de service qu’elle fournit.": {
+      "en": "Our team comprises experienced, passionate professionals who share our vision and values. We select chauffeurs for their expertise, courtesy and ability to anticipate clients' needs. We take pride in our team and the quality of its service.",
+      "ar": "يتألف فريقنا من محترفين ذوي خبرة وشغف يشتركون في رؤيتنا وقيمنا. ونختار سائقينا لكفاءتهم ولباقتهم وقدرتهم على استباق احتياجات العملاء. نفخر بفريقنا وبجودة الخدمة التي يقدمها."
+    },
+    "Notre équipe monitore votre vol ou train en direct. En cas de retard, la prise en charge est automatiquement ajustée — sans que vous ayez à prévenir qui que ce soit.": {
+      "en": "Our team monitors your flight or train in real time. If it is delayed, your pickup is automatically adjusted — without you having to notify anyone.",
+      "ar": "يراقب فريقنا رحلتكم الجوية أو القطار مباشرة. وفي حال التأخر، يُعدّل موعد الاستقبال تلقائياً دون الحاجة إلى إبلاغنا."
+    },
+    "Nous adaptons notre service à vos besoins spécifiques et à votre emploi du temps.": {
+      "en": "We tailor our service to your specific needs and schedule.",
+      "ar": "نكيّف خدماتنا لتلائم احتياجاتكم الخاصة وجدولكم الزمني."
+    },
+    "Nous assurons vos trajets à vos réunions et rendez-vous professionnels, en vous offrant un service de transport fiable et efficace.": {
+      "en": "We take you to meetings and business appointments, providing reliable, efficient transport.",
+      "ar": "نوفر لكم النقل إلى الاجتماعات ومواعيد العمل بخدمة موثوقة وفعالة."
+    },
+    "Nous avons repensé l'expérience VIP de fond en comble. Pas une simple application de réservation de chauffeur. Pas un énième service de mise en relation. Quelque chose de fondamentalement différent — une plateforme pensée exclusivement pour une clientèle d'exception, avec des fonctionnalités que le marché n'a jamais vues.": {
+      "en": "We have reimagined the VIP experience from the ground up. Not just another chauffeur-booking app. Not another matching service. Something fundamentally different — a platform created exclusively for discerning clients, with features the market has never seen.",
+      "ar": "أعدنا تصور تجربة كبار الشخصيات من أساسها. ليس مجرد تطبيق آخر لحجز سائق، ولا خدمة أخرى للربط بين الأشخاص، بل منصة مختلفة جذرياً صُممت حصرياً للعملاء الباحثين عن التميز، بميزات لم يشهدها السوق من قبل."
+    },
+    "Nous concevons des escapades sur mesure pour vous faire découvrir les plus beaux joyaux de France, dans le confort d'un véhicule premium et avec l'expertise d'un chauffeur ou guide privé dédié.": {
+      "en": "We create bespoke excursions to reveal France's finest treasures in the comfort of a premium vehicle, with an expert dedicated chauffeur or private guide.",
+      "ar": "نصمم رحلات خاصة لاكتشاف أجمل كنوز فرنسا براحة مركبة فاخرة وبصحبة سائق مخصص أو مرشد خاص خبير."
+    },
+    "Nous concevons votre itinéraire sur mesure entre les châteaux de votre choix, avec transferts, visites privées et déjeuner gastronomique en route si vous le souhaitez.": {
+      "en": "We design your route between the châteaux of your choice, with transfers, private tours and a gourmet lunch along the way if you wish.",
+      "ar": "نصمم مساركم بين القصور التي تختارونها، مع التنقلات والجولات الخاصة وغداء فاخر على الطريق إن رغبتم."
+    },
+    "Nous construisons votre escapade selon vos envies — en France ou au-delà des frontières. ": {
+      "en": "We build your escape around your wishes — in France or beyond its borders.",
+      "ar": "نصمم رحلتكم وفق رغباتكم — داخل فرنسا أو خارج حدودها."
+    },
+    "Nous définissons avec vous les objectifs, le budget et le calendrier, pour poser des bases solides dès le départ.": {
+      "en": "Together we define your objectives, budget and timeline to establish a solid foundation from the start.",
+      "ar": "نحدد معكم الأهداف والميزانية والجدول الزمني لوضع أسس متينة منذ البداية."
+    },
+    "Nous garantissons la ponctualité de nos chauffeurs afin d'assurer votre prise en charge à l'heure convenue.": {
+      "en": "We guarantee our chauffeurs' punctuality to ensure pickup at the agreed time.",
+      "ar": "نضمن التزام سائقينا بالمواعيد لضمان استقبالكم في الوقت المتفق عليه."
+    },
+    "Nous mettons en œuvre toutes les mesures nécessaires pour garantir votre satisfaction et votre sécurité durant le transport.": {
+      "en": "We take every necessary measure to ensure your satisfaction and safety during transport.",
+      "ar": "نتخذ جميع التدابير اللازمة لضمان رضاكم وسلامتكم أثناء التنقل."
+    },
+    "Nous mettons à votre disposition un chauffeur expérimenté qui vous accompagnera selon votre programme pour un service de transport sur mesure.": {
+      "en": "We provide an experienced chauffeur to accompany you according to your programme for a bespoke transport service.",
+      "ar": "نوفر لكم سائقاً ذا خبرة يرافقكم وفق برنامجكم لتقديم خدمة نقل مصممة خصيصاً لكم."
+    },
+    "Nous ne croyons pas à la sécurité ostentatoire. Nous croyons à la sécurité invisible et efficace — celle qui protège sans contraindre, anticipe sans alarmer, accompagne sans se faire remarquer.": {
+      "en": "We do not believe in conspicuous security. We believe in discreet, effective protection — protection that does not restrict, anticipates without alarming and accompanies without drawing attention.",
+      "ar": "لا نؤمن بالأمن الاستعراضي، بل بالحماية الخفية والفعالة — حماية لا تقيّد، وتستبق دون إثارة القلق، وترافق دون لفت الأنظار."
+    },
+    "Nous ne travaillons pas avec des formules toutes faites chaque projet est construit sur mesure, avec la discrétion et l'exigence que votre clientèle est en droit d'attendre.": {
+      "en": "We do not use off-the-shelf packages. Each project is crafted individually, with the discretion and rigour your clientele rightly expects.",
+      "ar": "لا نعتمد باقات جاهزة، بل نصمم كل مشروع على حدة بالسرية والدقة اللتين يحق لعملائكم توقعهما."
+    },
+    "Nous ne vendons pas des trajets. Nous ne louons pas des voitures avec chauffeur.": {
+      "en": "We don't sell rides. We don't rent cars with chauffeurs.",
+      "ar": "نحن لا نبيع رحلات ولا نؤجر سيارات مع سائقين."
+    },
+    "Nous nous engageons à faire preuve de discrétion et à respecter votre vie privée, en vous proposant un service de transport personnalisé et confidentiel.": {
+      "en": "We are committed to discretion and respect for your privacy, offering a personalised and confidential transport service.",
+      "ar": "نلتزم بالسرية واحترام خصوصيتكم من خلال خدمة نقل شخصية وسرية."
+    },
+    "Nous organisons votre journée parisienne de A à Z, avec accès coupe-file, guide expert à disposition et chauffeur qui vous suit au fil de vos envies. Paris à votre rythme, sans la foule.": {
+      "en": "We organise your day in Paris from start to finish, with skip-the-line access, an expert guide and a chauffeur who follows your wishes. Paris at your own pace, away from the crowds.",
+      "ar": "ننظم يومكم في باريس من البداية للنهاية، مع دخول دون انتظار ومرشد خبير وسائق يرافقكم بحسب رغباتكم. باريس على إيقاعكم الخاص بعيداً عن الحشود."
+    },
+    "Nous prenons en charge des personnes — avec leurs exigences, leurs habitudes, leurs préférences et parfois leurs urgences. Chaque client est unique. Chaque demande est traitée comme si c'était la plus importante de la journée. Parce que pour vous, elle l'est.": {
+      "en": "We look after people — their requirements, habits, preferences and sometimes their emergencies. Every client is unique. Every request is treated as though it were the most important of the day. Because to you, it is.",
+      "ar": "نحن نهتم بالأشخاص — بمتطلباتهم وعاداتهم وتفضيلاتهم وأحياناً بحالاتهم الطارئة. لكل عميل خصوصيته، ونتعامل مع كل طلب كما لو كان الأهم في يومنا. لأنه الأهم بالنسبة إليكم."
+    },
+    "Nous veillons à ce que chaque séjour soit préparé selon vos préférences : chambre haute, vue spécifique, arrangements à l'arrivée, requests particulières transmises en amont.": {
+      "en": "We ensure every stay is prepared according to your preferences: a high-floor room, a particular view, arrival arrangements and special requests communicated in advance.",
+      "ar": "نحرص على إعداد كل إقامة وفق تفضيلاتكم: غرفة في طابق مرتفع أو إطلالة محددة أو ترتيبات استقبال خاصة، مع نقل الطلبات الاستثنائية مسبقاً."
+    },
+    "Nous vous accompagnons pour vos déplacements professionnels, tels que des présentations ou des conférences.": {
+      "en": "We accompany you on business trips such as presentations and conferences.",
+      "ar": "نرافقكم في تنقلات العمل، مثل العروض التقديمية والمؤتمرات."
+    },
+    "Nous vous conduisons pour vos sessions de shopping en ville, en vous proposant un service de transport personnalisé.": {
+      "en": "We drive you on city shopping trips with a personalised transport service.",
+      "ar": "نرافقكم في جولات التسوق داخل المدينة بخدمة نقل شخصية."
+    },
+    "Organisation des flux entre hôtels, aéroports, gares et lieu de l'événement, sans accroc.": {
+      "en": "Seamless movement between hotels, airports, stations and event venues.",
+      "ar": "تنسيق سلس للتنقل بين الفنادق والمطارات ومحطات القطارات ومواقع الفعاليات."
+    },
+    "Organisation et logistique événementielle": {
+      "en": "Event planning & logistics",
+      "ar": "تنظيم الفعاليات والخدمات اللوجستية"
+    },
+    "Ouvrir le menu": {
+      "en": "Open menu",
+      "ar": "فتح القائمة"
+    },
+    "Palaces, châteaux, vignobles, côtes normandes": {
+      "en": "Palaces, châteaux, vineyards and Normandy's coast",
+      "ar": "الفنادق الفاخرة والقصور وكروم العنب وساحل نورماندي"
+    },
+    "Par HYDD :": {
+      "en": "By HYDD:",
+      "ar": "من جانب HYDD:"
+    },
+    "Par le Client :": {
+      "en": "By the Customer:",
+      "ar": "من جانب العميل:"
+    },
+    "Parce que certains déplacements ne laissent pas de place à l'improvisation.": {
+      "en": "Because some journeys leave no room for improvisation.",
+      "ar": "لأن بعض الرحلات لا تحتمل الارتجال."
+    },
+    "Parce que votre temps est précieux, et que chaque détail compte.": {
+      "en": "Because your time is precious, and every detail matters.",
+      "ar": "لأن وقتكم ثمين، وكل تفصيل مهم."
+    },
+    "Paris — La Ville Lumière en privé": {
+      "en": "Paris — The City of Light, privately",
+      "ar": "باريس — مدينة النور في تجربة خاصة"
+    },
+    "Partenaire Officiel de Transport ": {
+      "en": "Official Transport Partner",
+      "ar": "شريك النقل الرسمي"
+    },
+    "Pas de formules préétablies. Pas de réponses génériques. Chaque demande est écoutée, analysée et traitée de façon unique — qu'il s'agisse d'un transfert aéroport ou d'un événement international de plusieurs jours.": {
+      "en": "No standard formulas. No generic responses. Every request is heard, assessed and handled individually — whether an airport transfer or a multi-day international event.",
+      "ar": "لا قوالب جاهزة ولا إجابات عامة. نستمع إلى كل طلب ونحلله ونعالجه بصورة فردية — سواء كان تنقلاً من المطار أو فعالية دولية تمتد أياماً."
+    },
+    "Pas seulement un chauffeur. Pas seulement une voiture. Mais un service global, pensé dans ses moindres détails — du transfert aéroport à la coordination médicale, de l'accueil VIP à l'organisation d'événements privés.": {
+      "en": "Not merely a chauffeur. Not merely a car. But a complete service designed down to the smallest detail — from airport transfers to medical coordination, VIP welcome to private event planning.",
+      "ar": "ليس مجرد سائق ولا مجرد سيارة، بل خدمة متكاملة مدروسة بأدق تفاصيلها — من تنقلات المطار إلى التنسيق الطبي، ومن الاستقبال الخاص إلى تنظيم الفعاليات الخاصة."
+    },
+    "Pendant plus de quinze ans, Yasir a conduit des personnalités parmi les plus influentes du monde — chefs d'État, décideurs internationaux, figures du monde des affaires et de la culture. Des visages connus, des noms qui font l'actualité, des réunions dont on ne parle pas.": {
+      "en": "For more than fifteen years, Yasir chauffeured some of the world's most influential figures — heads of state, international decision-makers and personalities from business and culture. Recognisable faces, headline-making names and meetings that remain confidential.",
+      "ar": "على مدى أكثر من خمسة عشر عاماً، قاد ياسر سيارات شخصيات من الأكثر نفوذاً في العالم — رؤساء دول وصناع قرار دوليين وشخصيات من عالم الأعمال والثقافة. وجوه معروفة وأسماء تتصدر الأخبار واجتماعات لا يُتحدث عنها."
+    },
+    "Personnalisation": {
+      "en": "Personalisation",
+      "ar": "التخصيص"
+    },
+    "Ponctualité": {
+      "en": "Punctuality",
+      "ar": "الالتزام بالمواعيد"
+    },
+    "Pour ceux qui veulent arriver aussi intensément qu'ils voyagent.": {
+      "en": "For those who want their arrival to be as memorable as their journey.",
+      "ar": "لمن يرغبون في وصول لا يقل تميزاً عن رحلتهم."
+    },
+    "Pour les Clients consommateurs (particuliers), la juridiction compétente sera déterminée conformément aux règles du Code de procédure civile.": {
+      "en": "For consumer Customers (individuals), the competent court will be determined in accordance with the French Code of Civil Procedure.",
+      "ar": "بالنسبة للعملاء المستهلكين (الأفراد)، تُحدد المحكمة المختصة وفقاً لأحكام قانون الإجراءات المدنية الفرنسي."
+    },
+    "Pour les Clients professionnels bénéficiant d'un compte client, les factures sont payables à réception, sauf conditions particulières négociées.": {
+      "en": "For business Customers with a customer account, invoices are payable upon receipt unless special terms have been negotiated.",
+      "ar": "بالنسبة للعملاء من الشركات الذين لديهم حساب عميل، تستحق الفواتير الدفع عند الاستلام، ما لم تُتفق على شروط خاصة."
+    },
+    "Pour les prestations ponctuelles, un acompte de 30% du montant total pourra être demandé à la confirmation. Le solde est exigible au plus tard le jour de la prestation, sauf accord contraire.": {
+      "en": "For one-off services, a deposit of 30% of the total amount may be required upon confirmation. The balance is payable no later than the day of service, unless otherwise agreed.",
+      "ar": "بالنسبة للخدمات الفردية، قد يُطلب عربون بنسبة ٣٠٪ من المبلغ الإجمالي عند التأكيد، ويستحق الرصيد المتبقي في موعد أقصاه يوم تقديم الخدمة ما لم يُتفق على خلاف ذلك."
+    },
+    "Pour les prestations événementielles et de conciergerie, des conditions d'annulation spécifiques pourront être définies dans le devis et prévaudront sur les présentes dispositions générales.": {
+      "en": "For event and concierge services, specific cancellation terms may be set out in the quotation and will take precedence over these general provisions.",
+      "ar": "بالنسبة لخدمات الفعاليات والكونسيرج، قد تُحدد شروط إلغاء خاصة في عرض السعر وتكون لها الأولوية على هذه الأحكام العامة."
+    },
+    "Pourquoi HYDD Conciergerie ?": {
+      "en": "Why HYDD Concierge?",
+      "ar": "لماذا كونسيرج HYDD؟"
+    },
+    "Prestance naturelle, hauteur de caisse imposante, intérieur digne des meilleures berlines — le Range Rover s'impose aussi bien sur les routes parisiennes que sur les chemins de la Côte d'Azur. Polyvalent, dominant, indéniablement élégant.": {
+      "en": "Commanding presence, elevated ride height and an interior worthy of the finest saloons — the Range Rover is equally at home on Paris streets and Côte d'Azur roads. Versatile, imposing, undeniably elegant.",
+      "ar": "حضور قوي وارتفاع مميز عن الطريق ومقصورة تضاهي أفخم سيارات السيدان — تتألق رينج روفر في شوارع باريس وطرق الريفييرا الفرنسية على حد سواء. متعددة الاستخدامات ومهيبة وأنيقة بلا شك."
+    },
+    "Prestation complémentaire demandée en cours de mission": {
+      "en": "Additional service requested during a mission",
+      "ar": "خدمة إضافية طُلبت أثناء المهمة"
+    },
+    "Prestige": {
+      "en": "Prestige",
+      "ar": "الفخامة"
+    },
+    "Prise de rendez-vous prioritaires auprès des praticiens les plus réputés": {
+      "en": "Priority appointments with the most renowned medical practitioners",
+      "ar": "حجز مواعيد ذات أولوية لدى أشهر الأطباء المتخصصين"
+    },
+    "Prise en charge personnalisée pour vos invités d'honneur, avec chauffeur attitré et accompagnement sur mesure.": {
+      "en": "Personalised assistance for your guests of honour, with a dedicated chauffeur and bespoke support.",
+      "ar": "استقبال شخصي لضيوف الشرف مع سائق مخصص ومرافقة مصممة حسب احتياجاتهم."
+    },
+    "Prise en charge ponctuelle et sans friction, de l'aéroport ou la gare jusqu'à votre destination.": {
+      "en": "Punctual, seamless pickup from the airport or station to your destination.",
+      "ar": "استقبال دقيق في الموعد وانتقال سلس من المطار أو محطة القطار إلى وجهتكم."
+    },
+    "Professionnalisme": {
+      "en": "Professionalism",
+      "ar": "الاحترافية"
+    },
+    "Protection": {
+      "en": "Protection",
+      "ar": "الحماية"
+    },
+    "Protection Rapprochée": {
+      "en": "Close Protection",
+      "ar": "الحماية الشخصية"
+    },
+    "Préférences mémorisées": {
+      "en": "Remembered preferences",
+      "ar": "تفضيلات محفوظة"
+    },
+    "Qualité": {
+      "en": "Quality",
+      "ar": "الجودة"
+    },
+    "Que vous fassiez appel à nous pour un transfert, une escapade privée, un accueil VIP ou une coordination médicale complexe — vous avez notre engagement total, de la première prise de contact jusqu'à la dernière étape de votre prise en charge.": {
+      "en": "Whether you call on us for a transfer, private excursion, VIP welcome or complex medical coordination, you have our full commitment from the first contact to the final stage of your service.",
+      "ar": "سواء طلبتم خدمة نقل أو رحلة خاصة أو استقبال كبار الشخصيات أو تنسيقاً طبياً معقداً، فإننا نلتزم بخدمتكم بالكامل من أول تواصل وحتى آخر مرحلة."
+    },
+    "Rang Rover ": {
+      "en": "Range Rover",
+      "ar": "رينج روفر"
+    },
+    "Range Rover": {
+      "en": "Range Rover",
+      "ar": "رينج روفر"
+    },
+    "Reims & la Champagne    L'art de la célébration": {
+      "en": "Reims & Champagne — The art of celebration",
+      "ar": "ريمس ومنطقة الشمبانيا — فن الاحتفال"
+    },
+    "Respecter les horaires convenus et assurer la ponctualité du service": {
+      "en": "Observe agreed schedules and ensure punctual service",
+      "ar": "احترام الجداول الزمنية المتفق عليها وضمان دقة الخدمة في المواعيد"
+    },
+    "Respecter les véhicules et équipements mis à sa disposition": {
+      "en": "Respect the vehicles and equipment provided",
+      "ar": "الحفاظ على المركبات والمعدات الموضوعة تحت التصرف"
+    },
+    "Retard, changement de terminal, bagage supplémentaire — nous nous adaptons sans friction.": {
+      "en": "Delay, terminal change or extra luggage — we adapt seamlessly.",
+      "ar": "تأخير أو تغيير مبنى المطار أو حقائب إضافية — نتكيّف بسلاسة."
+    },
+    "Retour": {
+      "en": "Back",
+      "ar": "رجوع"
+    },
+    "Roadshows": {
+      "en": "Roadshows",
+      "ar": "الجولات الترويجية"
+    },
+    "Rolls-Royce Phantom": {
+      "en": "Rolls-Royce Phantom",
+      "ar": "رولز رويس فانتوم"
+    },
+    "Rolls-Royce Phantom ": {
+      "en": "Rolls-Royce Phantom",
+      "ar": "رولز رويس فانتوم"
+    },
+    "Réactivité": {
+      "en": "Responsiveness",
+      "ar": "سرعة الاستجابة"
+    },
+    "Régler les prestations dans les délais convenus": {
+      "en": "Pay for services within the agreed deadlines",
+      "ar": "دفع مقابل الخدمات ضمن المواعيد المتفق عليها"
+    },
+    "Réseau exclusif": {
+      "en": "Exclusive network",
+      "ar": "شبكة حصرية"
+    },
+    "Réseau international": {
+      "en": "International network",
+      "ar": "شبكة دولية"
+    },
+    "Réservation dans les restaurants les plus courus, les tables étoilées et les adresses confidentielles. Nous gérons les délais d'attente, les demandes spéciales et les arrangements sur mesure — anniversaires, dîners d'affaires, soirées privées.": {
+      "en": "Reservations at the most sought-after restaurants, Michelin-starred tables and discreet addresses. We handle waiting lists, special requests and bespoke arrangements — birthdays, business dinners and private evenings.",
+      "ar": "حجوزات في أكثر المطاعم طلباً والمطاعم الحائزة نجوم ميشلان والوجهات الحصرية. نتولى قوائم الانتظار والطلبات الخاصة والترتيبات المصممة حسب الطلب — لأعياد الميلاد وعشاء العمل والأمسيات الخاصة."
+    },
+    "Réservation de jets privés, hélicoptères et vols charters aux quatre coins du monde. Nous gérons la sélection de l'appareil, la coordination avec les FBO, les slots de décollage et la logistique au sol — pour un départ aussi fluide qu'un transfert depuis votre domicile. ": {
+      "en": "Private jets, helicopters and charter flights worldwide. We handle aircraft selection, coordination with FBOs, departure slots and ground logistics — ensuring a departure as smooth as a transfer from your home.",
+      "ar": "نحجز الطائرات الخاصة والمروحيات ورحلات الطيران العارض في أنحاء العالم. ونتولى اختيار الطائرة والتنسيق مع مشغلي خدمات الطيران الخاص ومواعيد الإقلاع والخدمات الأرضية، لتكون مغادرتكم سلسة كرحلة من منزلكم."
+    },
+    "Réservation à l'avance": {
+      "en": "Advance booking",
+      "ar": "الحجز المسبق"
+    },
+    "Réservez votre excursion": {
+      "en": "Book your excursion",
+      "ar": "احجز رحلتك الخاصة"
+    },
+    "Réunions": {
+      "en": "Meetings",
+      "ar": "الاجتماعات"
+    },
+    "S'abstenir de tout comportement pouvant mettre en danger la sécurité du chauffeur ou des autres passagers": {
+      "en": "Refrain from any behaviour that could endanger the chauffeur or other passengers",
+      "ar": "الامتناع عن أي سلوك قد يعرّض سلامة السائق أو الركاب الآخرين للخطر"
+    },
+    "Sans oublier la majestueuse Cathédrale Notre-Dame de Reims, chef-d'œuvre gothique où furent sacrés les rois de France.": {
+      "en": "Not forgetting the majestic Notre-Dame Cathedral of Reims, a Gothic masterpiece where the kings of France were crowned.",
+      "ar": "ولا ننسى كاتدرائية نوتردام المهيبة في ريمس، التحفة القوطية التي شهدت تتويج ملوك فرنسا."
+    },
+    "Selon les autorisations aéroportuaires, votre hôtesse vous accueille directement à la sortie de la passerelle ou au premier point d'accès autorisé, tablette nominative en main. Vous êtes identifié immédiatement — pas de recherche, pas d'attente.": {
+      "en": "Depending on airport authorisations, your hostess welcomes you directly at the aircraft jet bridge or the first authorised access point, holding a name sign. You're recognised immediately — no searching, no waiting.",
+      "ar": "بحسب التصاريح المسموح بها في المطار، تستقبلكم المضيفة عند جسر الطائرة مباشرة أو أول نقطة دخول مصرح بها، حاملة لوحة باسمكم. يتم التعرف إليكم فوراً — دون بحث أو انتظار."
+    },
+    "Service de chauffeur dédié personnalisé pour vos déplacements professionnels, événements ou shopping avec flexibilité, ponctualité et discrétion. Contactez HYDD.": {
+      "en": "Personalised dedicated chauffeur service for business trips, events or shopping, with flexibility, punctuality and discretion. Contact HYDD.",
+      "ar": "خدمة سائق خاص مصممة لتنقلات العمل والفعاليات والتسوق، بمرونة ودقة في المواعيد وسرية. تواصلوا مع HYDD."
+    },
+    "Service de conciergerie": {
+      "en": "Concierge service",
+      "ar": "خدمة الكونسيرج"
+    },
+    "SERVICES": {
+      "en": "SERVICES",
+      "ar": "الخدمات"
+    },
+    "Services 3 — HYDD": {
+      "en": "Services 3 — HYDD",
+      "ar": "الخدمات ٣ — HYDD"
+    },
+    "Services de conciergerie de luxe (aviation privée, hébergement, coordination médicale, gastronomie)": {
+      "en": "Luxury concierge services (private aviation, accommodation, medical coordination and fine dining)",
+      "ar": "خدمات كونسيرج فاخرة (الطيران الخاص والإقامة والتنسيق الطبي والمطاعم الراقية)"
+    },
+    "Si vous bénéficiez d'un accès salon (ou si ce service est inclus dans votre formule), votre hôtesse vous y escorte. Elle s'assure ensuite que vous êtes bien orienté vers votre porte d'embarquement, dans les temps et sans stress.": {
+      "en": "If you have lounge access (or it is included in your package), your hostess escorts you there. She then ensures you reach your boarding gate on time and without stress.",
+      "ar": "إذا كانت لديكم إمكانية دخول صالة الضيافة (أو كانت مشمولة في باقتكم)، ترافقكم المضيفة إليها، ثم تتأكد من وصولكم إلى بوابة الصعود في الوقت المناسب ودون توتر."
+    },
+    "Silhouette élégante, habitacle raffiné, suspension confort — la Classe E offre un équilibre parfait entre dynamisme et sérénité. Idéale pour vos transferts aéroport, rendez-vous d'affaires et déplacements quotidiens.": {
+      "en": "Elegant silhouette, refined interior and comfortable suspension — the E-Class strikes the perfect balance between dynamism and serenity. Ideal for airport transfers, business meetings and daily travel.",
+      "ar": "تصميم أنيق ومقصورة راقية ونظام تعليق مريح — تحقق الفئة E توازناً مثالياً بين الأداء والهدوء. مثالية لتنقلات المطار واجتماعات العمل والرحلات اليومية."
+    },
+    "Sièges individuels inclinables, climatisation indépendante, éclairage d'ambiance — aucun compromis sur le confort, quelle que soit la taille du groupe. Pour vos séminaires, transferts événementiels et délégations officielles.": {
+      "en": "Reclining individual seats, independent air conditioning and ambient lighting — no compromise on comfort, whatever the group size. Perfect for seminars, event transfers and official delegations.",
+      "ar": "مقاعد فردية قابلة للإمالة وتكييف مستقل وإضاءة محيطية — راحة بلا تنازلات مهما كان حجم المجموعة. مثالية للندوات وتنقلات الفعاليات والوفود الرسمية."
+    },
+    "Sièges massant, isolation phonique exceptionnelle, technologies de pointe — la Classe S redéfinit à chaque génération ce que signifie voyager en première classe sur route. Pour les clients qui n'acceptent pas le compromis.": {
+      "en": "Massaging seats, exceptional sound insulation and cutting-edge technology — the S-Class redefines first-class road travel with every generation. For clients who accept no compromises.",
+      "ar": "مقاعد مزودة بالتدليك وعزل صوتي استثنائي وتقنيات متطورة — تعيد الفئة S تعريف السفر البري من الدرجة الأولى مع كل جيل. للعملاء الذين لا يقبلون التنازل."
+    },
+    "Souscrire et maintenir les assurances nécessaires à l'exercice de son activité": {
+      "en": "Take out and maintain the insurance required for its activities",
+      "ar": "إبرام وثائق التأمين اللازمة لمزاولة النشاط والمحافظة على سريانها"
+    },
+    "Soyez parmi les premiers": {
+      "en": "Be among the first",
+      "ar": "كونوا من الأوائل"
+    },
+    "Suites dans les palaces les plus réputés — Le Bristol, The Dorchester, l'Hôtel de Paris à Monaco, le Four Seasons Milan — réservations dans les établissements les plus prisés, même en période de haute demande.": {
+      "en": "Suites in the most renowned luxury hotels — Le Bristol, The Dorchester, Hôtel de Paris in Monaco and Four Seasons Milan — with reservations at the most sought-after properties, even during peak demand.",
+      "ar": "أجنحة في أرقى الفنادق — لو بريستول وذا دورتشستر وأوتيل دو باري في موناكو وفور سيزونز ميلانو — مع حجوزات في أكثر المنشآت طلباً حتى في فترات الذروة."
+    },
+    "Suivi en temps réel": {
+      "en": "Real-time tracking",
+      "ar": "التتبع المباشر"
+    },
+    "Sur mesure, toujours": {
+      "en": "Always bespoke",
+      "ar": "حسب الطلب دائماً"
+    },
+    "Sélection des lieux": {
+      "en": "Venue selection",
+      "ar": "اختيار المواقع"
+    },
+    "Team 1 — HYDD": {
+      "en": "Team 1 — HYDD",
+      "ar": "الفريق ١ — HYDD"
+    },
+    "Temps d'attente non prévu dépassant 30 minutes": {
+      "en": "Unplanned waiting time exceeding 30 minutes",
+      "ar": "وقت انتظار غير مخطط يتجاوز ٣٠ دقيقة"
+    },
+    "Titulaires d'une carte professionnelle d'agent de sécurité privée en cours de validité": {
+      "en": "Hold a valid professional private security agent licence",
+      "ar": "حيازة بطاقة مهنية سارية لمزاولة العمل في الأمن الخاص"
+    },
+    "Tour Eiffel, Louvre, Montmartre, Marais, Palais-Royal ": {
+      "en": "Eiffel Tower, Louvre, Montmartre, Marais, Palais-Royal",
+      "ar": "برج إيفل واللوفر ومونمارتر ولو ماريه وباليه رويال"
+    },
+    "Tous les prix sont exprimés en euros (€) toutes taxes comprises (TTC). HYDD se réserve le droit de modifier ses tarifs à tout moment. Les prestations sont facturées au tarif en vigueur au moment de la confirmation de commande.": {
+      "en": "All prices are stated in euros (€), inclusive of all taxes. HYDD reserves the right to change its prices at any time. Services are invoiced at the rate in effect at the time of booking confirmation.",
+      "ar": "جميع الأسعار باليورو (€) شاملة الضرائب. وتحتفظ HYDD بالحق في تغيير أسعارها في أي وقت. وتُفوتر الخدمات بالسعر الساري عند تأكيد الحجز."
+    },
+    "Tout autre mode de paiement convenu entre les parties": {
+      "en": "Any other payment method agreed between the parties",
+      "ar": "أي وسيلة دفع أخرى يتفق عليها الطرفان"
+    },
+    "Tout ce que vous n'avez pas le temps de gérer, nous le gérons.": {
+      "en": "Everything you don't have time to manage, we manage for you.",
+      "ar": "كل ما لا تجدون وقتاً لإدارته، نتولى نحن إدارته."
+    },
+    "Toute annulation ou modification doit être notifiée à HYDD par écrit (email ou message) dans les délais suivants :": {
+      "en": "Any cancellation or modification must be notified to HYDD in writing (email or message) within the following time limits:",
+      "ar": "يجب إخطار HYDD خطياً بأي إلغاء أو تعديل (عبر البريد الإلكتروني أو رسالة) ضمن المهل التالية:"
+    },
+    "Toute commande implique l'acceptation pleine et entière des présentes CGV. HYDD se réserve le droit de modifier ses CGV à tout moment. Les CGV applicables sont celles en vigueur à la date de la commande.": {
+      "en": "Placing an order implies full acceptance of these Terms and Conditions. HYDD reserves the right to amend its Terms at any time. The Terms applicable are those in force on the date of the order.",
+      "ar": "يعني تقديم أي طلب القبول الكامل بهذه الشروط والأحكام. وتحتفظ HYDD بالحق في تعديل شروطها في أي وقت. وتكون الشروط المطبقة هي السارية في تاريخ الطلب."
+    },
+    "Toute demande de prestation doit être formulée au préalable par le Client via l'un des canaux suivants : site internet ": {
+      "en": "All service requests must be submitted in advance by the Customer through one of the following channels: website",
+      "ar": "يجب على العميل تقديم أي طلب خدمة مسبقاً عبر إحدى القنوات التالية: الموقع الإلكتروني"
+    },
+    "Toute réclamation relative à une prestation doit être adressée à HYDD dans un délai de 8 jours suivant la réalisation de la prestation, par email à ": {
+      "en": "Any complaint concerning a service must be sent to HYDD within eight days of its completion, by email to",
+      "ar": "يجب إرسال أي شكوى تتعلق بخدمة إلى HYDD خلال ثمانية أيام من تاريخ تقديمها، عبر البريد الإلكتروني إلى"
+    },
+    "Toutes nos missions font l'objet d'un accord de confidentialité strict et systématique. L'identité de nos clients, leurs itinéraires, les dispositifs déployés et les informations échangées ne sont jamais divulgués — à qui que ce soit, sous quelque forme que ce soit.": {
+      "en": "All our assignments are covered by a strict and systematic confidentiality agreement. Client identities, itineraries, security measures and exchanged information are never disclosed to anyone in any form.",
+      "ar": "تخضع جميع مهامنا لاتفاق سرية صارم ومنتظم. ولا نكشف عن هوية عملائنا أو مساراتهم أو التدابير الأمنية المعتمدة أو المعلومات المتبادلة لأي شخص وبأي شكل."
+    },
+    "Toutes vos demandes sont traitées en toute confidentialité.": {
+      "en": "All your requests are handled in complete confidence.",
+      "ar": "تُعالج جميع طلباتكم بسرية تامة."
+    },
+    "Traiteur, décoration, sono, sécurité — nous mobilisons les meilleurs partenaires et supervisons chaque intervenant.": {
+      "en": "Catering, décor, sound and security — we engage the best partners and supervise every provider.",
+      "ar": "الضيافة والديكور والصوت والأمن — نستعين بأفضل الشركاء ونشرف على كل مقدم خدمة."
+    },
+    "Transfert aéroport & gare": {
+      "en": "Airport & railway station transfers",
+      "ar": "تنقلات المطارات ومحطات القطارات"
+    },
+    "Transferts": {
+      "en": "Transfers",
+      "ar": "التنقلات"
+    },
+    "Transferts aéroport, gare et longue distance": {
+      "en": "Airport, railway station and long-distance transfers",
+      "ar": "تنقلات المطارات ومحطات القطارات والمسافات الطويلة"
+    },
+    "TRANSFERTS | Réservez votre transfert dès maintenant — HYDD": {
+      "en": "TRANSFERS | Book Your Transfer Now — HYDD",
+      "ar": "التنقلات | احجز خدمتك الآن — HYDD"
+    },
+    "Transport de groupe": {
+      "en": "Group transport",
+      "ar": "نقل المجموعات"
+    },
+    "Un chauffeur professionnel à votre disposition, selon votre programme et votre rythme.": {
+      "en": "A professional chauffeur at your disposal, following your schedule and pace.",
+      "ar": "سائق محترف تحت تصرفكم وفق جدولكم وإيقاعكم الخاص."
+    },
+    "Un interlocuteur dédié, joignable à tout moment avant et pendant le transfert.": {
+      "en": "A dedicated contact, reachable any time before and during your transfer.",
+      "ar": "مسؤول تواصل مخصص متاح في أي وقت قبل التنقل وأثناءه."
+    },
+    "Un interlocuteur unique. Une disponibilité totale. Aucune demande sans réponse.": {
+      "en": "One point of contact. Complete availability. No request unanswered.",
+      "ar": "جهة اتصال واحدة. توافر كامل. لا طلب بلا استجابة."
+    },
+    "Un réseau d'exception": {
+      "en": "An exceptional network",
+      "ar": "شبكة استثنائية"
+    },
+    "Un service rare dans notre secteur, et pourtant essentiel. Nous organisons l'accès aux meilleurs spécialistes et établissements de santé en France et à l'international, avec la même discrétion et le même soin que pour chacune de nos prestations. Parce que la santé de nos clients mérite une attention aussi grande que leur confort.": {
+      "en": "A rare yet essential service in our field. We arrange access to leading specialists and healthcare institutions in France and worldwide, with the same discretion and care devoted to every service. Because our clients' health deserves as much attention as their comfort.",
+      "ar": "خدمة نادرة في قطاعنا لكنها أساسية. ننسق الوصول إلى أفضل المتخصصين والمؤسسات الصحية في فرنسا وحول العالم، بالسرية والرعاية نفسيهما اللتين نخصصهما لكل خدمة. لأن صحة عملائنا تستحق اهتماماً يوازي راحتهم."
+    },
+    "Un service rare, confidentiel et d'une valeur inestimable. Nous organisons l'accès aux meilleurs spécialistes et établissements hospitaliers d'excellence en France et à l'international — sans délai d'attente, sans démarche administrative à votre charge.": {
+      "en": "A rare, confidential and invaluable service. We arrange access to leading specialists and outstanding hospitals in France and abroad — without waiting times or administrative tasks for you to manage.",
+      "ar": "خدمة نادرة وسرية لا تُقدّر بثمن. نرتب الوصول إلى أبرز المتخصصين وأفضل المستشفيات في فرنسا والخارج — دون قوائم انتظار أو إجراءات إدارية تتولونها بأنفسكم."
+    },
+    "Un service réservé aux personnes qui ne peuvent pas se permettre l'approximation": {
+      "en": "A service for those who cannot afford uncertainty",
+      "ar": "خدمة لمن لا يقبلون أي مجال للخطأ"
+    },
+    "Une approche intégrée — Transport & Protection réunis": {
+      "en": "An integrated approach — Transport & Protection together",
+      "ar": "نهج متكامل — النقل والحماية معاً"
+    },
+    "Une exigence sans compromis": {
+      "en": "Uncompromising excellence",
+      "ar": "تميز بلا مساومة"
+    },
+    "Une expérience inédite dans votre main": {
+      "en": "A new experience in the palm of your hand",
+      "ar": "تجربة غير مسبوقة بين يديك"
+    },
+    "Une expérience magique vécue dans des conditions d'exception, pour vous ou pour offrir un moment inoubliable à vos proches.": {
+      "en": "A magical experience in exceptional conditions, for yourself or as an unforgettable gift for loved ones.",
+      "ar": "تجربة ساحرة في أجواء استثنائية، لكم أو هدية لا تُنسى لأحبائكم."
+    },
+    "Une fois les bagages récupérés, votre hôtesse vous escorte jusqu'à la zone de prise en charge où votre chauffeur vous attend, véhicule prêt au départ. La passation est fluide, chaleureuse et sans temps mort. Votre trajet commence dans l'instant.": {
+      "en": "Once your luggage is collected, your hostess escorts you to the pickup area, where your chauffeur is waiting with the vehicle ready to depart. The handover is seamless, warm and without delay. Your journey begins immediately.",
+      "ar": "بعد استلام أمتعتكم، ترافقكم المضيفة إلى منطقة الاستقبال حيث ينتظركم السائق والمركبة جاهزة للمغادرة. يتم التسليم بسلاسة ودفء ودون تأخير. تبدأ رحلتكم على الفور."
+    },
+    "Une hôtesse dédiée vous accueille à la passerelle et vous escorte jusqu'à votre chauffeur, sans attente.": {
+      "en": "A dedicated hostess welcomes you at the jet bridge and escorts you to your chauffeur without waiting.",
+      "ar": "تستقبلكم مضيفة مخصصة عند جسر الطائرة وترافقكم إلى سائقكم دون انتظار."
+    },
+    "Une immersion totale dans l'histoire de France.": {
+      "en": "A complete immersion in French history.",
+      "ar": "انغماس كامل في التاريخ الفرنسي."
+    },
+    "Une journée entre mer, art et gastronomie normande — un grand classique pour une clientèle exigeante.": {
+      "en": "A day of sea, art and Norman gastronomy — a timeless favourite for discerning clients.",
+      "ar": "يوم يجمع البحر والفن وفنون الطهي النورماندية — خيار كلاسيكي مميز للعملاء الباحثين عن التميز."
+    },
+    "Une maîtrise logistique totale": {
+      "en": "Complete logistical control",
+      "ar": "سيطرة لوجستية شاملة"
+    },
+    "Une prise en charge sans faille": {
+      "en": "Flawless assistance",
+      "ar": "رعاية بلا أخطاء"
+    },
+    "Une seule équipe. Un seul interlocuteur. Zéro stress.": {
+      "en": "One team. One point of contact. Zero stress.",
+      "ar": "فريق واحد. جهة اتصال واحدة. دون توتر."
+    },
+    "Une vocation née de l'expérience": {
+      "en": "A calling born of experience",
+      "ar": "رسالة وُلدت من الخبرة"
+    },
+    "Versailles — L'art de vivre royal": {
+      "en": "Versailles — The art of royal living",
+      "ar": "فرساي — فن الحياة الملكية"
+    },
+    "Veuillez remplir les informations requises et nous vous reviendrons dans les plus brefs délais.": {
+      "en": "Please fill in the required information and we will get back to you as soon as possible.",
+      "ar": "يرجى تعبئة المعلومات المطلوبة وسنرد عليكم في أقرب وقت ممكن."
+    },
+    "Vingt ans. C'est le temps qu'Akim a consacré à un secteur qui ne pardonne pas l'à-peu-près — le luxe. Des Maisons prestigieuses aux hôtels de référence internationale, il a appris que dans cet univers, l'excellence n'est pas un objectif. C'est un prérequis.": {
+      "en": "Twenty years. That is how long Akim devoted to an industry that tolerates no approximation: luxury. From prestigious houses to internationally renowned hotels, he learned that excellence here is not a goal; it is a prerequisite.",
+      "ar": "عشرون عاماً. هذه هي المدة التي كرسها أكيم لقطاع لا يقبل أنصاف الحلول: الفخامة. من الدور المرموقة إلى الفنادق العالمية الرائدة، تعلم أن التميز في هذا العالم ليس هدفاً، بل شرط أساسي."
+    },
+    "Virement bancaire": {
+      "en": "Bank transfer",
+      "ar": "تحويل مصرفي"
+    },
+    "Visite privée des caves des plus grandes Maisons de Champagne — Ruinart, Taittinger, Krug, Moët & Chandon — dégustation exclusive et découverte des secrets de la vinification. ": {
+      "en": "Private cellar visits at the great Champagne houses — Ruinart, Taittinger, Krug and Moët & Chandon — with exclusive tastings and a discovery of winemaking secrets.",
+      "ar": "زيارات خاصة لأقبية أشهر دور الشمبانيا — روينار وتيتانجيه وكروغ ومويت آند شاندون — مع تذوق حصري واكتشاف أسرار صناعة النبيذ الفوّار."
+    },
+    "Voir en taille réelle": {
+      "en": "View full size",
+      "ar": "عرض بالحجم الكامل"
+    },
+    "Vos garanties": {
+      "en": "Your guarantees",
+      "ar": "ضماناتكم"
+    },
+    "Votre chauffeur connaît votre agent. Votre agent connaît votre itinéraire. Votre itinéraire a été pensé pour votre sécurité. Rien n'est cloisonné. Tout est connecté. Votre sécurité ne commence pas à la portière — elle commence dès la planification de votre déplacement.": {
+      "en": "Your chauffeur knows your security agent. Your agent knows your itinerary. Your itinerary has been designed for your safety. Nothing operates in isolation. Everything is connected. Your security does not begin at the car door — it starts when your journey is planned.",
+      "ar": "يعرف سائقكم عنصر الحماية الخاص بكم، ويعرف عنصر الحماية مساركم، وقد صُمم المسار لضمان سلامتكم. لا شيء منفصل، فكل شيء مترابط. لا تبدأ حمايتكم عند باب السيارة، بل منذ التخطيط لرحلتكم."
+    },
+    "Votre chauffeur est sur place avant votre arrivée, sans exception.": {
+      "en": "Your chauffeur is on site before you arrive, without exception.",
+      "ar": "يكون سائقكم في الموقع قبل وصولكم دون استثناء."
+    },
+    "Votre hôtesse prend en charge la récupération de vos bagages en livraison express dédiée (LED) lorsque le service est disponible, ou vous accompagne directement au tapis bagages concerné. Elle identifie, récupère et gère l'ensemble de vos valises — vous n'avez rien à porter, rien à surveiller.": {
+      "en": "Your hostess arranges baggage collection through the dedicated express delivery (LED) service where available, or accompanies you directly to the appropriate baggage carousel. She identifies, collects and manages all your luggage — nothing for you to carry or watch over.",
+      "ar": "تتولى مضيفتكم استلام الأمتعة عبر خدمة التوصيل السريع المخصصة (LED) عند توافرها، أو ترافقكم مباشرة إلى حزام الأمتعة المناسب. تحدد حقائبكم وتستلمها وتديرها بالكامل — فلا تضطرون لحمل شيء أو مراقبته."
+    },
+    "Votre hôtesse vous accompagne jusqu'aux accès de sécurité et vous oriente vers les voies prioritaires disponibles — Fast Track, accès salons — pour réduire au maximum le temps d'attente.": {
+      "en": "Your hostess accompanies you to security and directs you to available priority lanes — Fast Track and lounge access — to minimise waiting times.",
+      "ar": "ترافقكم المضيفة حتى نقاط التفتيش الأمني وترشدكم إلى المسارات ذات الأولوية المتاحة — المسار السريع وصالات الضيافة — لتقليل الانتظار قدر الإمكان."
+    },
+    "Votre hôtesse vous accueille au niveau du dépose-minute ou de l'entrée VIP selon l'aéroport, prend en charge vos bagages et vous accompagne sans attente vers le comptoir d'enregistrement.": {
+      "en": "Your hostess welcomes you at the drop-off area or VIP entrance depending on the airport, takes care of your luggage and escorts you to the check-in desk without delay.",
+      "ar": "تستقبلكم المضيفة في منطقة إنزال الركاب أو المدخل الخاص بكبار الشخصيات حسب المطار، وتتولى أمتعتكم وترافقكم مباشرة إلى مكتب تسجيل الوصول."
+    },
+    "Votre hôtesse vous guide et vous accompagne physiquement à travers les différents contrôles :": {
+      "en": "Your hostess guides and physically accompanies you through the various checks:",
+      "ar": "ترشدكم المضيفة وترافقكم شخصياً عبر إجراءات التفتيش المختلفة:"
+    },
+    "Votre santé et celle de vos proches traitées avec la même exigence que tout le reste — en toute discrétion.": {
+      "en": "Your health and that of your loved ones receive the same meticulous attention as everything else — in complete discretion.",
+      "ar": "تحظى صحتكم وصحة أحبائكم بالمستوى نفسه من العناية الدقيقة الذي نوليه لكل شيء — في سرية تامة."
+    },
+    "Votre sécurité, notre priorité absolue": {
+      "en": "Your safety, our highest priority",
+      "ar": "سلامتكم أولويتنا القصوى"
+    },
+    "Votre temps est votre ressource la plus précieuse. Notre service de conciergerie de luxe prend en charge chaque détail de votre vie quotidienne, professionnelle ou personnelle — avec discrétion, réactivité et un niveau d'exigence à la hauteur de vos attentes.": {
+      "en": "Your time is your most precious resource. Our luxury concierge service manages every detail of your daily life, professional or personal — with discretion, responsiveness and standards worthy of your expectations.",
+      "ar": "وقتكم هو أثمن ما تملكون. تتولى خدمة الكونسيرج الفاخرة لدينا كل تفصيل في حياتكم اليومية، المهنية أو الشخصية — بسرية وسرعة استجابة ومعايير ترقى إلى توقعاتكم."
+    },
+    "Vous avez une destination en tête qui ne figure pas ici ? ": {
+      "en": "Have a destination in mind that isn't listed here?",
+      "ar": "هل لديكم وجهة في بالكم لا تظهر هنا؟"
+    },
+    "Vous recevez les coordonnées de votre chauffeur avant le transfert pour pouvoir le joindre à tout moment.": {
+      "en": "You receive your chauffeur's contact details before the transfer so you can reach them at any time.",
+      "ar": "تصلكم بيانات التواصل مع سائقكم قبل موعد التنقل حتى تتمكنوا من الاتصال به في أي وقت."
+    },
+    "Véhicule premium, silence respecté, aucune attente inutile.": {
+      "en": "Premium vehicle, respected silence, no unnecessary waiting.",
+      "ar": "مركبة فاخرة وهدوء محترم ودون انتظار غير ضروري."
+    },
+    "Yasir": {
+      "en": "Yasir",
+      "ar": "ياسر"
+    },
+    "Yasir & Akim — Une vision commune": {
+      "en": "Yasir & Akim — A Shared Vision",
+      "ar": "ياسر وأكيم — رؤية مشتركة"
+    },
+    "Yasir, fondateur de HYDD": {
+      "en": "Yasir, founder of HYDD",
+      "ar": "ياسر، مؤسس HYDD"
+    },
+    "  —  Coordination parfaite entre votre chauffeur HYDD et votre agent de protection. Véhicule principal et véhicule de couverture selon le niveau de menace. Dispositif invisible mais opérationnel à tout instant.": {
+      "en": "— Perfect coordination between your HYDD chauffeur and protection agent. Lead vehicle and escort vehicle according to threat level. A discreet system that remains operational at all times.",
+      "ar": "— تنسيق تام بين سائقكم في HYDD وعنصر الحماية. مركبة رئيسية وأخرى للمرافقة حسب مستوى التهديد. منظومة غير لافتة للنظر لكنها جاهزة دائماً."
+    },
+    "  —  Couverture ininterrompue sur la durée de votre séjour ou mission. Rotation des équipes, reporting quotidien sur demande, adaptation permanente au contexte.": {
+      "en": "— Uninterrupted coverage throughout your stay or mission. Team rotation, daily reports on request and continuous adaptation to circumstances.",
+      "ar": "— حماية متواصلة طوال فترة إقامتكم أو مهمتكم، مع تناوب الفرق وتقارير يومية عند الطلب وتكيّف مستمر مع الظروف."
+    },
+    "  —  Galas, réceptions, réunions sensibles, apparitions publiques — présence discrète et stratégique sur site. Analyse préalable des accès, coordination avec la sécurité locale, gestion des flux.": {
+      "en": "— Galas, receptions, sensitive meetings and public appearances — discreet, strategic on-site presence. Advance access assessment, coordination with local security and crowd-flow management.",
+      "ar": "— حفلات واستقبالات واجتماعات حساسة وظهور علني — حضور استراتيجي سري في الموقع، مع تقييم مسبق للمداخل والتنسيق مع الأمن المحلي وإدارة الحركة."
+    },
+    "  —  Pour les délégations ou déplacements à exposition élevée : convoi coordonné intégrant chauffeurs et agents sous commandement unique, communication et réactivité en temps réel.": {
+      "en": "— For delegations or high-exposure travel: a coordinated convoy of chauffeurs and agents under unified command, with real-time communication and response.",
+      "ar": "— للوفود أو التنقلات عالية الحساسية: موكب منسق يجمع السائقين وعناصر الحماية تحت قيادة موحدة، مع تواصل واستجابة فوريين."
+    },
+    "  —  Prise en charge dès la sortie de l'avion, passage prioritaire, escorte sécurisée jusqu'au véhicule. Coordination totale avec nos équipes Greeter VIP pour une fluidité sans faille.": {
+      "en": "— Assistance from the aircraft exit, priority passage and secure escort to the vehicle. Full coordination with our VIP greeter teams for a seamless experience.",
+      "ar": "— استقبال فور الخروج من الطائرة ومرور ذي أولوية ومرافقة آمنة حتى المركبة، بتنسيق كامل مع فرق استقبال كبار الشخصيات لضمان تجربة سلسة."
+    },
+    " et ": {
+      "en": "and",
+      "ar": "و"
+    },
+    " ou par courrier à l'adresse du siège social.": {
+      "en": "or by post to the registered office address.",
+      "ar": "أو بالبريد إلى عنوان المقر المسجل."
+    },
+    " Que vous ayez besoin d'un chauffeur pour un roadshow, une virée shopping ou un meeting, nous sommes là pour vous offrir un service de haute qualité.": {
+      "en": "Whether you need a chauffeur for a roadshow, shopping trip or meeting, we're here to provide outstanding service.",
+      "ar": "سواء احتجتم سائقاً لجولة ترويجية أو رحلة تسوق أو اجتماع، فنحن هنا لنقدم لكم خدمة رفيعة المستوى."
+    },
+    " Service de transport personnalisé": {
+      "en": "Personalised transport service",
+      "ar": "خدمة نقل شخصية"
+    },
+    " Votre chauffeur vous identifie immédiatement grâce à une tablette affichant votre nom, dès la sortie des arrivées.": {
+      "en": "Your chauffeur identifies you immediately using a tablet displaying your name as you exit arrivals.",
+      "ar": "يتعرف سائقكم إليكم فور خروجكم من منطقة الوصول بفضل جهاز لوحي يعرض اسمكم."
+    },
+    " — Accompagnement et assistance pour toutes les formalités déclaratives si nécessaire. Chaque aéroport a ses propres protocoles — notre équipe les maîtrise parfaitement pour vous faire gagner un temps précieux.": {
+      "en": "— Guidance and assistance with all declaration formalities where necessary. Each airport has its own protocols — our team knows them thoroughly, saving you valuable time.",
+      "ar": "— الإرشاد والمساعدة في جميع إجراءات التصريح عند الحاجة. لكل مطار بروتوكولاته الخاصة، وفريقنا ملم بها تماماً لتوفير وقتكم الثمين."
+    },
+    " — Anticipez vos déplacements et planifiez vos services HYDD selon votre agenda, des jours ou des semaines à l'avance. Votre chauffeur confirmé, votre véhicule sélectionné, votre trajet organisé — bien avant le jour J, pour aborder chaque déplacement avec une sérénité totale.": {
+      "en": "— Plan ahead and schedule HYDD services to fit your diary, days or weeks in advance. Your chauffeur confirmed, vehicle selected and route arranged well before the day, allowing you to travel with complete peace of mind.",
+      "ar": "— خططوا لتنقلاتكم مسبقاً واحجزوا خدمات HYDD وفق جدولكم قبل أيام أو أسابيع. تأكيد السائق واختيار المركبة وتنظيم المسار قبل الموعد بفترة كافية لتسافروا براحة بال تامة."
+    },
+    " — Après des milliers de trajets, il sait qu'un grand service se remarque par ce qui ne se passe pas : pas d'attente, pas de surprise, pas d'imprévu non géré.": {
+      "en": "— After thousands of journeys, he knows that great service is noticed by what doesn't happen: no waiting, no surprises, no unmanaged problems.",
+      "ar": "— بعد آلاف الرحلات، أدرك أن الخدمة العظيمة تُعرف بما لا يحدث: لا انتظار ولا مفاجآت ولا طوارئ دون معالجة."
+    },
+    " — Chaque demande est traitée avec une discrétion totale. Votre vie privée ne nous appartient pas.": {
+      "en": "— Every request is handled with complete discretion. Your privacy belongs to you alone.",
+      "ar": "— نتعامل مع كل طلب بسرية تامة. خصوصيتكم ملك لكم وحدكم."
+    },
+    " — De la coordination d'un transfert simple à l'organisation d'un événement international multi-sites, Akim a développé une capacité rare à gérer la complexité avec élégance.": {
+      "en": "— From coordinating a simple transfer to organising a multi-site international event, Akim has developed a rare ability to manage complexity with elegance.",
+      "ar": "— من تنسيق رحلة نقل بسيطة إلى تنظيم فعالية دولية في مواقع متعددة، طوّر أكيم قدرة نادرة على إدارة التعقيد بأناقة."
+    },
+    " — Derrière chaque client, il y a une personne avec ses habitudes, ses préférences et parfois ses vulnérabilités. HYDD s'adresse à la personne, pas au passager.": {
+      "en": "— Behind every client is a person with habits, preferences and sometimes vulnerabilities. HYDD cares for the person, not just the passenger.",
+      "ar": "— وراء كل عميل إنسان له عاداته وتفضيلاته وأحياناً نقاط ضعفه. تهتم HYDD بالشخص لا بالراكب فقط."
+    },
+    " — Des années de relations privilégiées avec les meilleurs prestataires, partenaires et établissements dans chaque secteur du luxe, en France et à l'international.": {
+      "en": "— Years of trusted relationships with the finest providers, partners and establishments across luxury sectors in France and internationally.",
+      "ar": "— سنوات من العلاقات الموثوقة مع أفضل مزودي الخدمات والشركاء والمنشآت في قطاعات الفخامة بفرنسا والعالم."
+    },
+    " — Des années de relations privilégiées avec les meilleurs établissements, prestataires et professionnels dans chaque domaine.": {
+      "en": "— Years of trusted relationships with leading establishments, suppliers and professionals in every field.",
+      "ar": "— سنوات من العلاقات الموثوقة مع أبرز المنشآت ومزودي الخدمات والمحترفين في مختلف المجالات."
+    },
+    " — Des services encore jamais proposés sur une application de transport de luxe. À découvrir très bientôt.": {
+      "en": "— Services never before offered through a luxury transport app. Discover them very soon.",
+      "ar": "— خدمات لم تُقدّم من قبل عبر تطبيق للنقل الفاخر. اكتشفوها قريباً جداً."
+    },
+    " — Deux décennies dans le luxe forgent une vision claire de ce qui est acceptable et de ce qui ne l'est pas. Chez HYDD, ce standard s'applique à chaque prestation, sans exception.": {
+      "en": "— Two decades in luxury have shaped a clear vision of what is acceptable and what is not. At HYDD, that standard applies to every service without exception.",
+      "ar": "— صقلت خبرة عقدين في عالم الفخامة رؤية واضحة لما يمكن قبوله وما لا يمكن. وتُطبق HYDD هذه المعايير على كل خدمة دون استثناء."
+    },
+    " — En quelques heures, nous revenons vers vous avec une proposition concrète, des options et nos recommandations.": {
+      "en": "— Within a few hours, we come back to you with a concrete proposal, options and our recommendations.",
+      "ar": "— خلال ساعات قليلة، نعود إليكم بمقترح عملي وخيارات وتوصياتنا."
+    },
+    " — L'application apprend vos habitudes, vos adresses favorites, vos exigences — pour que chaque nouvelle réservation soit encore plus simple que la précédente.": {
+      "en": "— The app learns your habits, favourite addresses and requirements, making each new booking even easier than the last.",
+      "ar": "— يتعلم التطبيق عاداتكم وعناوينكم المفضلة ومتطلباتكم، ليصبح كل حجز جديد أسهل من سابقه."
+    },
+    " — Localisez votre chauffeur, suivez votre prise en charge et restez informé à chaque étape.": {
+      "en": "— Locate your chauffeur, track your pickup and stay informed at every stage.",
+      "ar": "— حددوا موقع سائقكم وتابعوا استقباله لكم وابقوا على اطلاع في كل مرحلة."
+    },
+    " — Notre équipe est joignable à toute heure. Parce que les besoins VIP ne s'arrêtent pas à 18h.": {
+      "en": "— Our team is reachable at any hour. VIP needs do not end at 6 p.m.",
+      "ar": "— فريقنا متاح في أي وقت. احتياجات كبار الشخصيات لا تنتهي عند السادسة مساءً."
+    },
+    " — Nous gérons tout de A à Z et restons votre point de contact unique jusqu'à la réalisation complète de votre demande.": {
+      "en": "— We handle everything from A to Z and remain your sole point of contact until your request is fully completed.",
+      "ar": "— نتولى كل شيء من الألف إلى الياء ونبقى جهة اتصالكم الوحيدة حتى تنفيذ طلبكم بالكامل."
+    },
+    " — Orientation vers les files prioritaires ou dédiées selon votre statut et l'aéroport concerné.": {
+      "en": "— Guidance to priority or dedicated queues, depending on your status and the airport concerned.",
+      "ar": "— إرشادكم إلى المسارات ذات الأولوية أو المخصصة حسب فئتكم والمطار المعني."
+    },
+    " — Pas de formulaire, pas d'attente. Un appel, un message — nous nous mettons en mouvement immédiatement.": {
+      "en": "— No forms, no waiting. One call or message, and we act immediately.",
+      "ar": "— دون استمارات أو انتظار. مكالمة أو رسالة واحدة ونبدأ العمل فوراً."
+    },
+    " — Plus la demande est exigeante, plus nous sommes dans notre élément.": {
+      "en": "— The more demanding the request, the more at home we feel.",
+      "ar": "— كلما ازداد الطلب تعقيداً، ازددنا قدرة على التعامل معه."
+    },
+    " — Transfert, chauffeur dédié, conciergerie, accueil VIP, événements — l'intégralité de notre offre accessible depuis une seule plateforme.": {
+      "en": "— Transfers, dedicated chauffeurs, concierge, VIP welcome and events — our entire range of services accessible from a single platform.",
+      "ar": "— التنقلات والسائق الخاص والكونسيرج واستقبال كبار الشخصيات والفعاليات — جميع خدماتنا عبر منصة واحدة."
+    },
+    " — Vous nous exposez votre besoin, qu'il soit immédiat ou anticipé. Nous posons les bonnes questions pour cerner vos attentes avec précision.": {
+      "en": "— Tell us what you need, whether immediately or in advance. We ask the right questions to understand your expectations precisely.",
+      "ar": "— أخبرونا بما تحتاجونه، فورياً كان أم مخططاً له مسبقاً. نطرح الأسئلة المناسبة لفهم توقعاتكم بدقة."
+    },
+    " — Yasir a été le témoin silencieux de moments que peu de gens voient. Cette culture du silence et de la confidentialité est inscrite dans l'ADN de HYDD.": {
+      "en": "— Yasir silently witnessed moments few people ever see. This culture of silence and confidentiality is part of HYDD's DNA.",
+      "ar": "— شهد ياسر بصمت لحظات لا يراها إلا القليلون. وهذه الثقافة القائمة على التكتم والسرية متجذرة في هوية HYDD."
+    },
+    "« Avec cette clientèle, il n’y a pas de seconde chance. La confiance se gagne au premier contact — et se confirme à chaque suivant. »": {
+      "en": "\"With these clients, there are no second chances. Trust is earned at the first meeting — and reaffirmed at every one thereafter.\"",
+      "ar": "«مع هؤلاء العملاء، لا توجد فرصة ثانية. تُكتسب الثقة منذ أول لقاء، وتتجدد في كل لقاء بعده.»"
+    },
+    "°Chaque fonctionnalité. Chaque détail d'interface.° ": {
+      "en": "°Every feature. Every interface detail.°",
+      "ar": "°كل ميزة. كل تفصيل في الواجهة.°"
+    },
+    "· Accueil & escorte aéroport": {
+      "en": "· Airport welcome & escort",
+      "ar": "· الاستقبال والمرافقة في المطار"
+    },
+    "· Convoi multi-véhicules": {
+      "en": "· Multi-vehicle convoy",
+      "ar": "· موكب متعدد المركبات"
+    },
+    "· Escorte véhiculaire": {
+      "en": "· Vehicle escort",
+      "ar": "· مرافقة المركبات"
+    },
+    "· Protection continue 24h/24": {
+      "en": "· Continuous 24/7 protection",
+      "ar": "· حماية متواصلة على مدار الساعة"
+    },
+    "· Sécurité événementielle": {
+      "en": "· Event security",
+      "ar": "· أمن الفعاليات"
+    },
+    "À bord de nos véhicules exclusifs — Henry Jacques": {
+      "en": "On board our exclusive vehicles — Henry Jacques",
+      "ar": "على متن مركباتنا الحصرية — هنري جاك"
+    },
+    "À bord, vous trouverez eau minérale, eau pétillante et lingettes rafraîchissantes — pour que votre confort soit total dès la portière fermée.": {
+      "en": "On board you'll find still and sparkling mineral water and refreshing wipes — for complete comfort as soon as the door closes.",
+      "ar": "ستجدون على متن مركباتنا مياهاً معدنية عادية وفوّارة ومناديل منعشة — لتبدأ راحتكم الكاملة بمجرد إغلاق الباب."
+    },
+    "À cette occasion, nos équipes ont assuré l'ensemble des prestations de transport et de logistique de déplacement pour les équipes et représentants d'OMEGA, mobilisant notre flotte de véhicules VIP et notre savoir-faire en matière de protocole et de sécurité, au service de l'un des événements sportifs les plus emblématiques au monde.": {
+      "en": "For the occasion, our teams handled all transport and travel logistics for OMEGA teams and representatives, deploying our VIP fleet and expertise in protocol and security in support of one of the world's most iconic sporting events.",
+      "ar": "في تلك المناسبة، تولّت فرقنا جميع خدمات النقل ولوجستيات التنقل لفرق OMEGA وممثليها، مستعينة بأسطول مركبات كبار الشخصيات وخبرتنا في البروتوكول والأمن، دعماً لأحد أبرز الأحداث الرياضية في العالم."
+    },
+    "À défaut de résolution amiable, tout litige sera soumis à la compétence exclusive des tribunaux du ressort de Nanterre, nonobstant pluralité de défendeurs ou appel en garantie.": {
+      "en": "If no amicable settlement is reached, any dispute will fall within the exclusive jurisdiction of the courts of Nanterre, notwithstanding multiple defendants or third-party claims.",
+      "ar": "إذا تعذرت التسوية الودية، يُحال أي نزاع إلى الاختصاص الحصري لمحاكم نانتير، حتى في حالة تعدد المدعى عليهم أو طلبات الضمان من الغير."
+    },
+    "À l'ARRIVÉE — Du tarmac à votre chauffeur": {
+      "en": "ON ARRIVAL — From the tarmac to your chauffeur",
+      "ar": "عند الوصول — من مدرج المطار إلى سائقكم"
+    },
+    "À la tête du pôle Clientèle Moyen-Orient, Eskandar structure et personnalise chaque relation. Il anticipe les besoins avant qu’ils ne soient formulés, coordonne les prestations avec la précision qu’exige une clientèle habituée au meilleur, et veille à ce que chaque interaction avec HYDD reflète cette excellence.": {
+      "en": "As Head of Middle East Client Relations, Eskandar organises and personalises every relationship. He anticipates needs before they are voiced, coordinates services with the precision expected by clients accustomed to the best, and ensures that every interaction with HYDD reflects this excellence.",
+      "ar": "بصفته رئيس قسم علاقات عملاء الشرق الأوسط، ينظّم إسكندر كل علاقة ويضفي عليها طابعاً شخصياً. يستبق الاحتياجات قبل التعبير عنها وينسق الخدمات بالدقة التي يتوقعها العملاء المعتادون على الأفضل، ويضمن أن تعكس كل تجربة مع HYDD هذا التميز."
+    },
+    "À propos": {
+      "en": "About",
+      "ar": "من نحن"
+    },
+    "À propos | Réservez une expérience exclusive dès maintenant — HYDD": {
+      "en": "About | Book an Exclusive Experience Now — HYDD",
+      "ar": "من نحن | احجز تجربة حصرية الآن — HYDD"
+    },
+    "À seulement 45 minutes de Paris, le Château de Versailles et ses jardins à la française s'offrent à vous dans toute leur splendeur. Accès prioritaire, visite guidée privée des Grands Appartements, promenade dans les jardins et les Trianons.": {
+      "en": "Just 45 minutes from Paris, the Palace of Versailles and its formal French gardens await in all their splendour. Priority access, a private guided tour of the State Apartments and a stroll through the gardens and Trianons.",
+      "ar": "على بُعد ٤٥ دقيقة فقط من باريس، يفتح قصر فرساي وحدائقه الفرنسية أبوابهما بكل روعتهما. دخول ذو أولوية وجولة خاصة بصحبة مرشد في الأجنحة الملكية ونزهة عبر الحدائق وقصور تريانون."
+    },
+    "Élaboration de parcours de soins personnalisés selon votre pathologie": {
+      "en": "Development of personalised care pathways suited to your medical condition",
+      "ar": "إعداد مسارات رعاية طبية شخصية تتناسب مع حالتكم الصحية"
+    },
+    "Étape 1 — Coordination & timing": {
+      "en": "Step 1 — Coordination & timing",
+      "ar": "الخطوة ١ — التنسيق والتوقيت"
+    },
+    "Étape 1 — Coordination en amont": {
+      "en": "Step 1 — Advance coordination",
+      "ar": "الخطوة ١ — التنسيق المسبق"
+    },
+    "Étape 2 — Accueil au dépose-minute": {
+      "en": "Step 2 — Welcome at the drop-off area",
+      "ar": "الخطوة ٢ — الاستقبال في منطقة إنزال الركاب"
+    },
+    "Étape 2 — Accueil à la passerelle ou en zone d'arrivée": {
+      "en": "Step 2 — Welcome at the jet bridge or arrivals",
+      "ar": "الخطوة ٢ — الاستقبال عند جسر الطائرة أو منطقة الوصول"
+    },
+    "Étape 3 — Accompagnement prioritaire aux contrôles": {
+      "en": "Step 3 — Priority assistance through checks",
+      "ar": "الخطوة ٣ — المرافقة ذات الأولوية خلال إجراءات التفتيش"
+    },
+    "Étape 3 — Enregistrement & dépôt des bagages": {
+      "en": "Step 3 — Check-in & baggage drop",
+      "ar": "الخطوة ٣ — تسجيل الوصول وتسليم الأمتعة"
+    },
+    "Étape 4 — Passage prioritaire aux contrôles de sécurité": {
+      "en": "Step 4 — Priority security screening",
+      "ar": "الخطوة ٤ — أولوية المرور عبر التفتيش الأمني"
+    },
+    "Étape 4 — Récupération des bagages (LED)": {
+      "en": "Step 4 — Baggage collection (LED)",
+      "ar": "الخطوة ٤ — استلام الأمتعة (LED)"
+    },
+    "Étape 5 — Accompagnement jusqu'au chauffeur": {
+      "en": "Step 5 — Escort to your chauffeur",
+      "ar": "الخطوة ٥ — المرافقة إلى السائق"
+    },
+    "Étape 5 — Accès salon & porte d'embarquement": {
+      "en": "Step 5 — Lounge access & boarding gate",
+      "ar": "الخطوة ٥ — دخول الصالة وبوابة الصعود"
+    },
+    "Événements": {
+      "en": "Events",
+      "ar": "الفعاليات"
+    },
+    "Être disponible et ponctuel aux horaires convenus": {
+      "en": "Be available and punctual at the agreed times",
+      "ar": "التوافر والالتزام بالمواعيد المتفق عليها"
+    },
+    "💬 Disponible sur WhatsApp ": {
+      "en": "💬 Available on WhatsApp",
+      "ar": "💬 متاحون عبر واتساب"
+    },
+    "📞 Vous préférez nous appeler ? ": {
+      "en": "📞 Prefer to call us?",
+      "ar": "📞 تفضلون الاتصال بنا؟"
+    }
+  }
+}

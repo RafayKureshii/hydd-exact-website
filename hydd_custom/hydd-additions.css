@@ -1,0 +1,104 @@
+/* HYDD additions: no changes to original Squarespace layout, colors or typography.
+   Only a minimal floating WhatsApp button is inserted; the language switcher stays in the original header. */
+#hydd-live-whatsapp { box-sizing:border-box !important; position:fixed !important; z-index:2147483000 !important; font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif !important; }
+#hydd-live-whatsapp { right:22px !important; bottom:22px !important; display:flex !important; align-items:center !important; gap:9px !important; padding:12px 16px !important; border-radius:999px !important; color:#fff !important; background:#128c7e !important; border:1px solid #0b796b !important; box-shadow:0 4px 19px rgba(0,0,0,.21) !important; font-size:14px !important; font-weight:650 !important; line-height:1.25 !important; text-decoration:none !important; max-width:calc(100vw - 32px) !important; }
+#hydd-live-whatsapp:hover { background:#075e54 !important; color:#fff !important; }
+#hydd-live-whatsapp:focus-visible, .hydd-native-language-switcher:focus-visible, .hydd-language-menu a:focus-visible { outline:3px solid #1c8cea !important; outline-offset:3px !important; }
+#hydd-live-whatsapp svg { width:22px !important; height:22px !important; flex:none !important; stroke:currentColor !important; }
+html[lang="ar"] { direction:rtl; }
+html[lang="ar"] input[type="email"], html[lang="ar"] input[type="tel"] { direction:ltr; text-align:start; }
+html[lang="ar"] :where(.sqs-block-content, .summary-content, .form-wrapper) { text-align:right; }
+@media (max-width:640px) { #hydd-live-whatsapp { right:12px !important; bottom:12px !important; font-size:12px !important; padding:11px 12px !important; } #hydd-live-whatsapp span { max-width:95px !important; } }
+@media print { #hydd-live-whatsapp,.hydd-language-menu { display:none !important; } }
+
+/* The original Squarespace header language control remains visible and styled
+   by the captured site. This only supplies its local navigation dropdown. */
+.hydd-native-language-switcher, .hydd-header-language-fallback { position:relative !important; }
+.hydd-native-language-switcher .language-picker-content { display:none !important; }
+.hydd-language-menu { position:absolute !important; z-index:2147483001 !important;
+  right:0 !important; top:calc(100% + 4px) !important; width:max-content !important;
+  min-width:152px !important; max-width:85vw !important;
+  background:#fff !important; color:#181818 !important; border:1px solid #e5e5e5 !important;
+  box-shadow:0 8px 22px rgba(0,0,0,.16) !important; padding:5px 0 !important;
+  border-radius:2px !important; text-align:left !important; direction:ltr !important;
+}
+.hydd-language-menu[hidden] { display:none !important; }
+.hydd-language-menu:not([hidden]) { display:block !important; }
+.hydd-language-menu a { display:block !important; padding:10px 16px !important;
+  color:#181818 !important; text-decoration:none !important; font:inherit !important;
+  white-space:nowrap !important; text-align:left !important;
+}
+.hydd-language-menu a:hover, .hydd-language-menu a:focus-visible,
+.hydd-language-menu a.hydd-language-active { background:#f1f1f1 !important; }
+.hydd-header-language-button { display:flex; align-items:center; gap:9px; font:inherit;
+  color:inherit; background:transparent; padding:8px; border:0; cursor:pointer; }
+.hydd-header-language-button svg:first-child { width:24px; height:24px; }
+.hydd-header-language-button svg:last-child { width:18px; height:18px; }
+.hydd-header-language-button:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
+@media print { .hydd-language-menu {display:none !important;} }
+
+/* HYDD_VISIBLE_DROPDOWN_V2: portal panel detached from Squarespace header.
+   Explicitly reset site-wide link/typography/opacity styles. */
+.hydd-native-language-switcher .language-picker-content,
+.hydd-native-language-switcher .language-picker-dropdown,
+.hydd-native-language-switcher .language-picker-list { display:none !important; }
+#hydd-visible-language-menu[hidden] { display:none !important; }
+#hydd-visible-language-menu:not([hidden]) {
+  all:initial !important;
+  position:fixed !important;
+  z-index:2147483640 !important;
+  box-sizing:border-box !important;
+  display:flex !important;
+  flex-direction:column !important;
+  gap:0 !important;
+  width:220px !important;
+  max-width:calc(100vw - 16px) !important;
+  margin:0 !important;
+  padding:6px 0 !important;
+  background:#fff !important;
+  color:#161616 !important;
+  opacity:1 !important;
+  visibility:visible !important;
+  pointer-events:auto !important;
+  border:1px solid rgba(0,0,0,.15) !important;
+  border-radius:2px !important;
+  box-shadow:0 8px 24px rgba(0,0,0,.2) !important;
+  direction:ltr !important;
+  text-align:left !important;
+  font-family:Georgia,"Times New Roman",serif !important;
+  font-size:17px !important;
+  line-height:1.4 !important;
+  isolation:isolate !important;
+}
+#hydd-visible-language-menu a,
+#hydd-visible-language-menu a:link,
+#hydd-visible-language-menu a:visited {
+  all:unset !important;
+  box-sizing:border-box !important;
+  display:block !important;
+  padding:9px 18px !important;
+  margin:0 !important;
+  width:100% !important;
+  color:#161616 !important;
+  -webkit-text-fill-color:#161616 !important;
+  background:#fff !important;
+  opacity:1 !important;
+  visibility:visible !important;
+  text-decoration:none !important;
+  text-transform:none !important;
+  letter-spacing:normal !important;
+  text-align:left !important;
+  line-height:1.45 !important;
+  font:inherit !important;
+  cursor:pointer !important;
+  white-space:nowrap !important;
+}
+#hydd-visible-language-menu a:hover,
+#hydd-visible-language-menu a:focus-visible,
+#hydd-visible-language-menu a.hydd-language-current {
+  background:#f1f1f1 !important;
+  color:#161616 !important;
+  -webkit-text-fill-color:#161616 !important;
+}
+#hydd-visible-language-menu a:focus-visible { outline:2px solid #277ce1 !important; outline-offset:-2px !important; }
+@media print { #hydd-visible-language-menu { display:none !important; } }
