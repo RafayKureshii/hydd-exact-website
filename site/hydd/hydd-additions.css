@@ -102,3 +102,28 @@ html[lang="ar"] :where(.sqs-block-content, .summary-content, .form-wrapper) { te
 }
 #hydd-visible-language-menu a:focus-visible { outline:2px solid #277ce1 !important; outline-offset:-2px !important; }
 @media print { #hydd-visible-language-menu { display:none !important; } }
+
+
+/* HYDD_MOBILE_RESPONSIVE_FIX_V1 — phone/tablet only; retain desktop styles. */
+@media screen and (max-width:767px){
+ html,body{max-width:100%;overflow-x:clip}
+ #page,main.container,.page-regions,.region,.page-section,.page-section .content-wrapper,.fluid-engine,.sqs-block,.sqs-block-content{min-width:0;box-sizing:border-box}
+ .page-section .content-wrapper,.sqs-block-content{max-width:100%}
+ .sqs-block-content img:not(.section-background img),.sqs-block-content video,.sqs-block-content iframe,.sqs-block-content canvas{max-width:100%}
+ .sqs-block-content img:not(.section-background img),.sqs-block-content video{height:auto}
+ .sqs-block-content pre,.sqs-block-content table{max-width:100%;overflow-x:auto}
+ .sqs-block-content :is(h1,h2,h3,p){overflow-wrap:break-word}
+ .header .header-inner,.header .header-display-mobile,.header .header-title-nav-wrapper,.header .header-title{min-width:0;box-sizing:border-box}
+ .header .header-display-mobile .header-title-logo img{max-width:min(44vw,190px);max-height:54px;width:auto;height:auto;object-fit:contain}
+ .header .header-burger-btn{min-width:44px;min-height:44px}
+ html[lang="ar"] .header .header-inner{direction:ltr}
+ html[lang="ar"] .header-menu-nav-item-content{direction:rtl;text-align:right}
+ #hydd-live-whatsapp{right:max(12px,env(safe-area-inset-right))!important;bottom:max(12px,env(safe-area-inset-bottom))!important;max-width:calc(100vw - 24px)!important}
+ .header.hydd-mobile-menu-fallback-open{z-index:2147482000!important}
+ .header.hydd-mobile-menu-fallback-open .header-inner{position:relative!important;z-index:2!important}
+ .header.hydd-mobile-menu-fallback-open .header-menu{display:block!important;visibility:visible!important;opacity:1!important;pointer-events:auto!important;transform:none!important;position:fixed!important;inset:0!important;width:100vw!important;height:100dvh!important;overflow-y:auto!important;overflow-x:hidden!important;padding-top:82px!important;box-sizing:border-box!important;background:#fff!important;color:#171717!important;z-index:1!important}
+ .header.hydd-mobile-menu-fallback-open .header-menu a{color:#171717!important;pointer-events:auto!important}
+ body.hydd-mobile-menu-scroll-lock{overflow:hidden!important}
+}
+@media screen and (max-width:374px){.header .header-display-mobile .header-title-logo img{max-width:38vw}#hydd-live-whatsapp{padding:10px 12px!important}}
+@media screen and (min-width:768px) and (max-width:1023px){html,body{max-width:100%;overflow-x:clip}.sqs-block-content img,.sqs-block-content video,.sqs-block-content iframe,.sqs-block-content canvas{max-width:100%}}
