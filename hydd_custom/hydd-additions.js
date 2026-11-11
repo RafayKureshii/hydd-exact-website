@@ -205,3 +205,46 @@
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start,{once:true});else start();
 })();
+
+
+/* HYDD_MOBILE_RESPONSIVE_FIX_V1 — original burger remains in place. */
+(()=>{
+ 'use strict';
+ function init(){
+  const header=document.querySelector('header.header,#header.header');
+  if(!header||header.dataset.hyddMobileFallback==='v1')return;
+  const menu=header.querySelector('.header-menu');
+  const buttons=Array.from(header.querySelectorAll('.header-burger-btn'));
+  if(!menu||!buttons.length)return;
+  header.dataset.hyddMobileFallback='v1';
+  let pending=null;
+  const isMobile=()=>window.matchMedia('(max-width: 767px)').matches;
+  function close(){
+   header.classList.remove('hydd-mobile-menu-fallback-open');
+   document.body.classList.remove('hydd-mobile-menu-scroll-lock');
+   buttons.forEach(button=>button.setAttribute('aria-expanded','false'));
+  }
+  buttons.forEach(button=>button.addEventListener('click',()=>{
+   if(!isMobile())return;
+   if(pending!==null)clearTimeout(pending);
+   if(header.classList.contains('hydd-mobile-menu-fallback-open')){close();return}
+   pending=setTimeout(()=>{
+    pending=null;
+    if(!isMobile())return;
+    const nativeClass=header.classList.contains('header--menu-open')||
+      document.body.classList.contains('header--menu-open');
+    const shown=getComputedStyle(menu);
+    const nativeVisible=shown.visibility==='visible'&&
+      parseFloat(shown.opacity||'1')>0.15&&shown.pointerEvents!=='none';
+    if(nativeClass||nativeVisible)return;
+    header.classList.add('hydd-mobile-menu-fallback-open');
+    document.body.classList.add('hydd-mobile-menu-scroll-lock');
+    buttons.forEach(b=>b.setAttribute('aria-expanded','true'));
+   },180);
+  },false));
+  menu.addEventListener('click',event=>{if(event.target.closest('a[href]'))close()});
+  document.addEventListener('keydown',event=>{if(event.key==='Escape'&&header.classList.contains('hydd-mobile-menu-fallback-open'))close()});
+  window.addEventListener('resize',()=>{if(!isMobile())close()});
+ }
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
+})();
