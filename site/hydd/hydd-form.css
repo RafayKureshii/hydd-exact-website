@@ -1,0 +1,20 @@
+/* HYDD_MULTILINGUAL_FORM_V1 — applies only to inherited Squarespace form blocks. */
+.sqs-block-form .hydd-original-form-hidden{display:none!important}
+.sqs-block-form .hydd-contact-form-host{box-sizing:border-box;min-width:0;width:100%;max-width:100%;font:inherit;color:inherit}
+.sqs-block-form .hydd-independent-contact-form{display:grid;gap:16px;max-width:100%;box-sizing:border-box}
+.sqs-block-form .hydd-contact-form-row{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.sqs-block-form .hydd-independent-contact-form label{display:block;max-width:100%;font:inherit;font-size:.94em;line-height:1.55;font-weight:500}
+.sqs-block-form .hydd-independent-contact-form :is(input:not([type=checkbox]),textarea){display:block;box-sizing:border-box;width:100%;max-width:100%;min-width:0;margin-top:7px;padding:12px 13px;background:transparent;color:inherit;border:1px solid currentColor;border-radius:5px;font:inherit;line-height:1.4}
+.sqs-block-form .hydd-independent-contact-form textarea{min-height:128px;resize:vertical}
+.sqs-block-form .hydd-independent-contact-form input[type=email]{direction:ltr;text-align:left}
+.sqs-block-form .hydd-contact-consent{display:flex!important;align-items:flex-start;gap:10px;font-weight:400!important;font-size:.86em!important}
+.sqs-block-form .hydd-contact-consent input{margin:5px 0 0!important;flex:none;width:16px;height:16px}
+.sqs-block-form .hydd-contact-action button{cursor:pointer;border:1px solid currentColor;background:#171717;color:#fff;border-radius:999px;padding:12px 27px;font:inherit;font-size:.9em;min-height:44px}
+.sqs-block-form .hydd-contact-action button:hover{background:#383838}
+.sqs-block-form .hydd-contact-action button:disabled{opacity:.6;cursor:wait}
+.sqs-block-form .hydd-contact-status{min-height:1.5em;font-size:.9em;line-height:1.5}
+.sqs-block-form .hydd-contact-status a{display:inline-block;text-decoration:underline;color:inherit;margin-inline-start:5px}
+.sqs-block-form .hydd-form-antispam{position:absolute!important;width:1px!important;height:1px!important;overflow:hidden!important;clip-path:inset(50%)!important}
+.sqs-block-form .hydd-independent-contact-form :is(input,textarea,button):focus-visible{outline:2px solid #277ce1;outline-offset:3px}
+.sqs-block-form .hydd-contact-form-host[dir=rtl]{text-align:right}
+@media(max-width:600px){.sqs-block-form .hydd-contact-form-row{grid-template-columns:minmax(0,1fr)}}
