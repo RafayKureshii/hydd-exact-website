@@ -1,0 +1,107 @@
+name: Package HYDD Hostinger website
+on:
+  push:
+    branches: [fix/mobile-responsive-2026-11-11]
+    paths:
+      - '.github/workflows/hydd-hostinger-package.yml'
+      - 'site/**'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the HYDD website
+        uses: actions/checkout@v4
+      - name: Build clean static Hostinger archive
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re, shutil, zipfile, tempfile
+          root=Path('site')
+          needed=('index.html','en/index.html','ar/index.html',
+                  'contact/index.html','en/contact/index.html','ar/contact/index.html',
+                  'hydd/hydd-additions.css','hydd/hydd-additions.js',
+                  'hydd/hydd-form.css','hydd/hydd-form.js')
+          missing=[name for name in needed if not (root/name).is_file()]
+          if missing:raise SystemExit('Missing source: '+', '.join(missing))
+          if 'HYDD_MULTILINGUAL_FORM_BOOT_V1' not in (root/'hydd/hydd-additions.js').read_text():
+              raise SystemExit('Form integration missing.')
+          allowed={'.html','.css','.js','.json','.xml','.txt','.jpg','.jpeg','.png',
+                   '.webp','.gif','.ico','.svg','.avif','.woff','.woff2','.ttf','.eot',
+                   '.otf','.pdf','.webmanifest','.mp4','.webm'}
+          scripts=re.compile(r'<script\b(?P<attrs>[^>]*)>(?P<body>.*?)</script\s*>',re.I|re.S)
+          src_re=re.compile(r'\bsrc=["\'](?P<src>[^"\']+)',re.I)
+          css='''/* HYDD static site compatibility: retain captured styling. */
+          html,body{max-width:100%}
+          html[lang="ar"],html[lang="ar"] body,html[lang="ar"] .fluid-engine,
+          html[lang="ar"] .page-section,html[lang="ar"] .header,
+          html[lang="ar"] .header-menu{direction:ltr!important}
+          html[lang="ar"] .sqs-html-content,html[lang="ar"] .sqs-block-content :is(h1,h2,h3,h4,h5,h6,p,li,blockquote),
+          html[lang="ar"] .header-menu-nav-item-content,html[lang="ar"] .hydd-contact-form-host{direction:rtl;text-align:right}
+          html[lang="ar"] input[type=email]{direction:ltr;text-align:left}
+          body [data-animation-role],body .preFade{opacity:1!important;visibility:visible!important}
+          body .preFade{transform:none!important}
+          @media(max-width:767px){html,body{overflow-x:clip}
+            #page,.page-regions,.region,.page-section,.fluid-engine,.sqs-block,.sqs-block-content{min-width:0;max-width:100%;box-sizing:border-box}
+            .sqs-block-content :is(img,video,iframe,canvas){max-width:100%}
+            .sqs-block-content :is(img,video){height:auto}
+            .sqs-block-content :is(h1,h2,h3,p){overflow-wrap:anywhere}}
+          '''
+          pages=0;removed=0
+          with tempfile.TemporaryDirectory() as t:
+              out=Path(t)
+              for source in root.rglob('*'):
+                  if source.is_symlink():raise SystemExit('Symlink refused: '+str(source))
+                  if not source.is_file() or source.suffix.lower() not in allowed:continue
+                  rel=source.relative_to(root)
+                  if any(p.startswith('.') for p in rel.parts):continue
+                  dest=out/rel;dest.parent.mkdir(parents=True,exist_ok=True)
+                  if source.suffix.lower()!='.html':
+                      shutil.copy2(source,dest)
+                      continue
+                  pages+=1
+                  html=source.read_text(encoding='utf-8')
+                  def strip(match):
+                      global removed
+                      attrs=match.group('attrs');src=src_re.search(attrs)
+                      if src and src.group('src').split('?')[0].startswith('/hydd/'):
+                          return match.group(0)
+                      if not src:
+                          typ=re.search(r'\btype=["\']([^"\']+)',attrs,re.I)
+                          if typ and typ.group(1).lower() in ('application/json','application/ld+json'):
+                              return match.group(0)
+                      removed+=1
+                      return ''
+                  html=scripts.sub(strip,html)
+                  if '</head>' not in html.lower():raise SystemExit('Missing head: '+str(rel))
+                  html=re.sub(r'</head\s*>','<link href="/hydd/hydd-hostinger-static.css" rel="stylesheet"/>\n</head>',html,count=1,flags=re.I)
+                  dest.write_text(html,encoding='utf-8')
+              if pages<40:raise SystemExit('Incomplete replica: '+str(pages)+' HTML pages')
+              (out/'hydd/hydd-hostinger-static.css').write_text(css)
+              icons=list((out/'assets/mirror').glob('*.ico'))
+              if icons:shutil.copyfile(icons[0],out/'favicon.ico')
+              target=Path('release/HYDD_HOSTINGER_READY.zip')
+              target.parent.mkdir(parents=True,exist_ok=True)
+              with zipfile.ZipFile(target,'w',compression=zipfile.ZIP_DEFLATED,compresslevel=5,allowZip64=True) as z:
+                  for path in sorted(out.rglob('*')):
+                      if path.is_file():z.write(path,path.relative_to(out).as_posix())
+          with zipfile.ZipFile(target) as z:
+              names=set(z.namelist())
+              if z.testzip():raise SystemExit('ZIP checksum failed')
+              if not set(needed).issubset(names):raise SystemExit('Archive missing required files')
+              if any(n.endswith(('.py','.command','.sql','.env','.sh')) for n in names):
+                  raise SystemExit('Server/source file included in archive')
+              print('PASS:',pages,'HTML pages,',len(names),'files,',removed,'Squarespace runtime scripts removed')
+              print('Extract the inner ZIP into public_html, NOT into the Node.js wizard.')
+              print('Email forms need an independently configured /api/contact SMTP backend.')
+          PY
+      - name: Upload actual Hostinger ZIP
+        uses: actions/upload-artifact@v4
+        with:
+          name: HYDD_HOSTINGER_READY
+          path: release/HYDD_HOSTINGER_READY.zip
+          if-no-files-found: error
+          retention-days: 30
