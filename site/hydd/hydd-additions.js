@@ -248,3 +248,21 @@
  }
  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
 })();
+
+
+/* HYDD_MULTILINGUAL_FORM_BOOT_V1 — shared form assets loaded on any page containing the captured form widget. */
+(()=>{
+ function load(){
+   if(!document.querySelector('.sqs-block-form.form-block'))return;
+   if(!document.querySelector('link[data-hydd-multilingual-form]')){
+     const css=document.createElement('link');
+     css.rel='stylesheet';css.href='/hydd/hydd-form.css';css.dataset.hyddMultilingualForm='v1';document.head.append(css);
+   }
+   if(!document.querySelector('script[data-hydd-multilingual-form]')){
+     const script=document.createElement('script');
+     script.src='/hydd/hydd-form.js';script.defer=true;script.dataset.hyddMultilingualForm='v1';
+     document.body.append(script);
+   }
+ }
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',load,{once:true});else load();
+})();
